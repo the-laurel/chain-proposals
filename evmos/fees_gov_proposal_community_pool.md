@@ -1,4 +1,4 @@
-# Fee Rewards - Governance Proposal for Changing Withdraw address to Community Pool
+# Fee Rewards - Governance Proposal for Redirecting Rewards to the Community Pool
 
 Proposal to solve https://commonwealth.im/evmos/discussion/4966-fee-rewards-for-functional-monopolies-not-sourceinvented-by-deployer-should-go-to-the-community-pool.
 
