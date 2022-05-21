@@ -2,6 +2,16 @@
 
 https://commonwealth.im/evmos/discussion/4980-dtypedb-the-first-interchain-database
 
+Bitcoin brought decentralized money - never before seen.
+Ethereum brought blockchain to the fingertips of any developer. Their killer usecase was token functionality (ICO, ERC20, NFTs, exchanges, etc.). 
+Cosmos brought de-facto governance on chain.
+
+These chains did not need to pay for somebody else to do marketing for them. Their tech was enough to draw attention.
+What is the killer usecase of Evmos? Is it comparable to the above?
+
+We bet that the next tech will be an inter-chain database.
+Its prefiguration is evident to the sensible: the need for asset bridges and data sharding in Ethereum 2.
+
 I am Loredana, my contribution to Evmos is: 1500 hours of volunteer effort over the past 4 months, I single-handedly wrote the fees module and produced demos of never before seen features to demonstrate what could be built on a Cosmos-EVM chain, like Evmos. I run the evmos4volunteers validator on behalf of The Laurel Project, which is a project built by and for volunteers.
 I have been building for the Ethereum blockchain space since 2017 and my video demos prove that.
 
