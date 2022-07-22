@@ -33,3 +33,9 @@ In fact: the types of transactions are a side-effect of the types of variables:
 - move an asset from one chain to another: inter-chain (limited to 2 chains)
 - transfer an asset to one owner to another on the same chain: localized
 - 
+
+### Forwarding View and Pure Calls
+
+- by IBC
+- by wallet
+
