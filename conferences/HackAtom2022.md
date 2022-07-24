@@ -39,3 +39,11 @@ In fact: the types of transactions are a side-effect of the types of variables:
 - by IBC
 - by wallet
 
+### Introducing the ganas Wallet
+
+- connects to Ethereum, Cosmos
+- encodes Cosmos SDK, Ethereum call/tx data
+- is Inter-Chain aware
+  - forwards view and pure calls
+- doubles as mobile IDE
+- 
