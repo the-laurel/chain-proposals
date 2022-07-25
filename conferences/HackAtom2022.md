@@ -1,6 +1,6 @@
 # HackAtom 2022 Seoul
 
-## Trailblazing the Inter-Chain
+## Trailblazing the EVM Inter-Chain
 _A practical guide for modifying EVM standards like ERC20, ERC721, etc. so they work in a IBC universe._
 
 Optional preliminaries: https://www.youtube.com/playlist?list=PL323JufuD9JCrElzoheW-oJMujGjHtp-k
@@ -45,5 +45,8 @@ In fact: the types of transactions are a side-effect of the types of variables:
 - encodes Cosmos SDK, Ethereum call/tx data
 - is Inter-Chain aware
   - forwards view and pure calls
+  - presents the inter-chain transactions
 - doubles as mobile IDE
+- easy to extend: publishes dApps and native extensions to IPFS
+- reads/shows QR codes
 - 
