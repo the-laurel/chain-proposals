@@ -50,3 +50,16 @@ In fact: the types of transactions are a side-effect of the types of variables:
 - easy to extend: publishes dApps and native extensions to IPFS
 - reads/shows QR codes
 - 
+
+If time permits:
+
+### The most powerful tool for EVM hacking: The EVM Spreadsheet
+
+- an EVM IDE for the connoisseur
+- minutious bytecode control
+- uses the on-chain EVM Interpreter precompile
+- debug
+- gas optimization
+- security optimization
+- totally decentralized and independent from controlled projects, languages such as Solidity
+
