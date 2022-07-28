@@ -62,4 +62,5 @@ If time permits:
 - gas optimization
 - security optimization
 - totally decentralized and independent from controlled projects, languages such as Solidity
+- published the Solidity interfaces for EVM Precompile
 
