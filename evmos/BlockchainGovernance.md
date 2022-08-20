@@ -1,16 +1,21 @@
-# Consensus on Blockchain Governance
+# Governance Infrastructure
+
+discussion: https://commonwealth.im/evmos/discussion/6708-metameta-governance-infrastructure
 
 ## Precedence
 
-- Consensus on Words and Concepts
-- Consensus on Syntax Tree
-- Precedence
+- The Cosmos SDK
 
 ## Acknowledgement
 
-The governance process is accepting the technical limitations of:
+All governance proposals are accepting the technical features and limitations of:
 
-- The Cosmos SDK v0.45.5 gov module: 
+- The Cosmos SDK gov module running on this chain:
+  - v0.45.5
   - https://github.com/cosmos/cosmos-sdk/tree/main/x/gov
   - https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/spec/README.md
-- the gov parameters already in force on this chain at this moment
+- the gov module parameters that are in force on this chain at the moment of the proposal being committed to the chain
+
+## Rules
+
+1. No proposal will impose outcomes that are impossible to achieve with the present governance infrastructure.
