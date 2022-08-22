@@ -55,3 +55,21 @@ Basic Rules <|-- Precedence Rules
 
 
 ```
+
+
+```mermaid
+classDiagram
+
+Proposal 1 <|--Evmos Constitution
+Proposal 2 <|-- Evmos Constitution
+Proposal 3 <|-- Evmos Constitution
+Proposal 4 <|-- Evmos Constitution
+
+Proposal 101 <|-- Proposal 2
+Proposal 101 <|-- Proposal 1
+
+Evmos Constitution <|-- Basic Rules
+
+
+
+```
