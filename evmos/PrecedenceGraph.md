@@ -1,5 +1,7 @@
 # Precedence Graph
 
+## Basic Rules
+
 ```mermaid
 
 classDiagram
@@ -56,11 +58,24 @@ Basic Rules <|-- Precedence Rules
 
 ```
 
+## Principles
 
 ```mermaid
 classDiagram
 
-Proposal 1 <|--Evmos Constitution
+The Principle Of Transformation <|-- Existence Of Principles 
+The Principle Of Reflexivity <|-- Existence Of Principles 
+
+Existence Of Principles <|-- Basic Rules
+
+```
+
+## Constitution
+
+```mermaid
+classDiagram
+
+Proposal 1 <|-- Evmos Constitution
 Proposal 2 <|-- Evmos Constitution
 Proposal 3 <|-- Evmos Constitution
 Proposal 4 <|-- Evmos Constitution
@@ -69,7 +84,6 @@ Proposal 101 <|-- Proposal 2
 Proposal 101 <|-- Proposal 1
 
 Evmos Constitution <|-- Basic Rules
-
 
 
 ```
