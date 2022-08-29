@@ -71,20 +71,20 @@ Technical Limitations <|-- Precedence Rules
 ```mermaid
 classDiagram
 
-class Principle Of Reflexivity  {
+class The Principle Of Reflexivity  {
   created
 }
-link Principle Of Reflexivity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfReflexivity.md" 
+link The Principle Of Reflexivity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfReflexivity.md" 
 
 class The Principle Of Identity  {
   created
 }
-link Principle Of Identity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfIdentity.md" 
+link The Principle Of Identity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfIdentity.md" 
 
 class The Principle Of Transformation  {
   created
 }
-link Principle Of Transformation "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfTransformation.md" 
+link The Principle Of Transformation "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfTransformation.md" 
 
 class Existence Of Principles {
   created
