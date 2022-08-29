@@ -1,12 +1,25 @@
 # Precedence Graph
 
-## Basic Rules
+## Graph Node
 
 ```mermaid
 
 classDiagram
-    
 
+ class  Proposal Name {
+  stage: created|discussion|in-vote|passed|rejected
+  chains: passed(@block)
+ }
+ 
+ ```
+
+## Technical Limitations
+
+
+    
+```mermaid
+
+classDiagram
  class  Grammar And Syntax Tree {
   discussion
  }
@@ -16,11 +29,6 @@ classDiagram
   discussion
  }
  link Words And Concepts "https://commonwealth.im/evmos/discussion/6610-metameta-consensus-on-words-and-concepts" 
- 
- class  Proposal Name {
-  stage: discussion|in-vote|passed|rejected
-  chains: passed(@block)
- }
 
  class  Language Limitations {
   discussion
@@ -42,18 +50,18 @@ class Naming And Versioning {
 }
 link Naming And Versioning "https://commonwealth.im/evmos/discussion/6710-metameta-naming-and-versioning" 
 
-class Basic Rules {
+class Technical Limitations {
   discussion
 }
-link Basic Rules "https://commonwealth.im/evmos/discussion/6712-metameta-basic-rules" 
+link Technical Limitations "https://commonwealth.im/evmos/discussion/6712-metameta-basic-rules" 
 
 
 Language Limitations <|-- Words And Concepts
 Language Limitations <|-- Grammar And Syntax Tree
 Naming And Versioning <|-- Language Limitations
 Naming And Versioning <|-- Governance Infrastructure
-Basic Rules <|-- Naming And Versioning
-Basic Rules <|-- Precedence Rules
+Technical Limitations <|-- Naming And Versioning
+Technical Limitations <|-- Precedence Rules
 
 
 ```
@@ -66,7 +74,7 @@ classDiagram
 The Principle Of Transformation <|-- Existence Of Principles 
 The Principle Of Reflexivity <|-- Existence Of Principles 
 
-Existence Of Principles <|-- Basic Rules
+Existence Of Principles <|-- Technical Limitations
 
 ```
 
@@ -83,7 +91,8 @@ Proposal 4 <|-- Evmos Constitution
 Proposal 101 <|-- Proposal 2
 Proposal 101 <|-- Proposal 1
 
-Evmos Constitution <|-- Basic Rules
+Evmos Constitution <|-- Principles
+Evmos Constitution <|-- Technical Limitations
 
 
 ```
