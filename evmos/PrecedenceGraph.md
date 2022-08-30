@@ -107,21 +107,21 @@ Existence Of Principles <|-- Technical Limitations
 
 ```
 
-## Constitution
+## Community Constitution
 
 ```mermaid
 classDiagram
 
-Proposal 1 <|-- Evmos Constitution
-Proposal 2 <|-- Evmos Constitution
-Proposal 3 <|-- Evmos Constitution
-Proposal 4 <|-- Evmos Constitution
+Proposal 1 <|-- Community Constitution
+Proposal 2 <|-- Community Constitution
+Proposal 3 <|-- Community Constitution
+Proposal 4 <|-- Community Constitution
 
 Proposal 101 <|-- Proposal 2
 Proposal 101 <|-- Proposal 1
 
-Evmos Constitution <|-- Principles
-Evmos Constitution <|-- Technical Limitations
+Community Constitution <|-- Principles
+Community Constitution <|-- Technical Limitations
 
 
 ```
