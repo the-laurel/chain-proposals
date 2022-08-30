@@ -18,8 +18,11 @@ The identity is a signifier (the way words are for concepts) for a unique entity
   1. guarantee a timeless relation to the identified
   1. guarantee a unique relation to the identified
 4. A change of the identity means assuming the new identity string from the moment of the change and the right to add the new identity string to previous documentation where possible (but not the right to delete the old identity).
+5. Equivalence
+  1. Two entities are equal if they are in fact the same. Their identities have to be equal too.
+  2. Two entities are equivalent if their group identities are equal.
 
 ## Obvious Applications
 
 - application of justice
-- determination of responsibility
+- determination of role and responsibility
