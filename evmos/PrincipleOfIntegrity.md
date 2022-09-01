@@ -14,12 +14,12 @@ Moral integrity is achieved by illuminating the whole context of a situation. If
 
 ## Rules
 
-1. blockchain transactions of only one nature and in only one direction are decreasing integrity
+1. blockchain transactions of only one nature and in only one direction are decreasing the integrity
 2. complementary transactions or transactions in the opposite direction are increasing the integrity
-3. off-chain transactions should also be considered when judging integrity
+3. off-chain transactions should also be considered when judging the integrity
 4. transparency increases the chance to achieve integrity (but does not guarantee it)
 
 ## Obvious Applications
 
 - application of justice
-- determination of integrity
+- determination of the integrity
