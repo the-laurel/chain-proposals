@@ -91,19 +91,27 @@ class Existence Of Principles {
 }
 link Existence Of Principles "https://github.com/the-laurel/chain-proposals/blob/main/evmos/ExistenceOfPrinciples.md" 
 
-class Principle Of Integrity {
+class The Principle Of Integrity {
   created
 }
-link Principle Of Integrity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfIntegrity.md"
+link The Principle Of Integrity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfIntegrity.md"
 
-Principle Of Integrity  <|-- The Principle Of Transformation
-Principle Of Integrity  <|-- The Principle Of Reflexivity
+class The Principle Of Rationality {
+  created
+}
+link The Principle Of Rationality "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfRationality.md" 
+
+The Principle Of Integrity  <|-- The Principle Of Transformation
+The Principle Of Integrity  <|-- The Principle Of Reflexivity
 
 The Principle Of Identity  <|-- Existence Of Principles 
 The Principle Of Transformation <|-- Existence Of Principles 
 The Principle Of Reflexivity <|-- Existence Of Principles 
+The Principle Of Rationality <|-- Existence Of Principles
 
 Existence Of Principles <|-- Technical Limitations
+
+
 
 ```
 
