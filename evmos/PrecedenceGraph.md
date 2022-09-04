@@ -101,6 +101,11 @@ class The Principle Of Rationality {
 }
 link The Principle Of Rationality "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfRationality.md" 
 
+class The Principle Of Existence Of Aspirations {
+  created
+}
+link The Principle Of Existence Of Aspirations "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfExistenceOfAspirations.md" 
+
 The Principle Of Integrity  <|-- The Principle Of Transformation
 The Principle Of Integrity  <|-- The Principle Of Reflexivity
 
@@ -108,12 +113,28 @@ The Principle Of Identity  <|-- Existence Of Principles
 The Principle Of Transformation <|-- Existence Of Principles 
 The Principle Of Reflexivity <|-- Existence Of Principles 
 The Principle Of Rationality <|-- Existence Of Principles
+The Principle Of Existence Of Aspirations <|-- Existence Of Principles
 
 Existence Of Principles <|-- Technical Limitations
 
 
+```
+
+## Aspirations
+
+```mermaid
+classDiagram
+
+class The Principle Of Existence Of Aspirations {
+  created
+}
+link The Principle Of Existence Of Aspirations "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfExistenceOfAspirations.md" 
+
+Aspiration_ Consciousness Is Good <|-- The Principle Of Existence Of Aspirations
+Aspiration_ Truth Coordinates Will  <|-- Aspiration_ Consciousness Is Good
 
 ```
+
 
 ## Community Constitution
 
@@ -130,6 +151,6 @@ Proposal 101 <|-- Proposal 1
 
 Community Constitution <|-- Principles
 Community Constitution <|-- Technical Limitations
-
+Community Constitution <|-- Aspirations
 
 ```
