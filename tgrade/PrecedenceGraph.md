@@ -1,5 +1,7 @@
 # Precedence Graph
 
+Concept explanation video: https://youtu.be/jFEocwaEYj0
+
 ## Trusted Circles
 
 
