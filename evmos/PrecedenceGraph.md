@@ -106,10 +106,16 @@ class The Principle Of Existence Of Aspirations {
 }
 link The Principle Of Existence Of Aspirations "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfExistenceOfAspirations.md" 
 
+class The Principle Of Continuity Of State {
+  created
+}
+link The Principle Of Continuity Of State "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfContinuityOfState.md"
+
 The Principle Of Integrity  <|-- The Principle Of Transformation
 The Principle Of Integrity  <|-- The Principle Of Reflexivity
 
 The Principle Of Identity  <|-- Existence Of Principles 
+The Principle Of Continuity Of State  <|-- Existence Of Principles 
 The Principle Of Transformation <|-- Existence Of Principles 
 The Principle Of Reflexivity <|-- Existence Of Principles 
 The Principle Of Rationality <|-- Existence Of Principles
