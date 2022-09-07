@@ -136,6 +136,16 @@ class The Principle Of Existence Of Aspirations {
 }
 link The Principle Of Existence Of Aspirations "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfExistenceOfAspirations.md" 
 
+class Aspiration_ Consciousness Is Good {
+  created
+}
+link Aspiration_ Consciousness Is Good "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_ConsciousnessIsGood.md" 
+
+class Aspiration_ Truth Coordinates Will {
+  created
+}
+link Aspiration_ Truth Coordinates Will "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_TruthCoordinatesWill.md" 
+
 Aspiration_ Consciousness Is Good <|-- The Principle Of Existence Of Aspirations
 Aspiration_ Truth Coordinates Will  <|-- Aspiration_ Consciousness Is Good
 
