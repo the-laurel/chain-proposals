@@ -38,3 +38,26 @@ We may find the following resources useful:
 - [Computing Classification System](https://github.com/SubjectRaw/SubjectRaw/blob/gh-pages/subject/data/eng/computing.md) in MD format
 - [Computing Classification System](https://dl.acm.org/pb-assets/dl_ccs/acm_ccs2012-1626988337597.xml) in XML SKOS format
 - [An initial map of the blockchain knowledge](https://github.com/the-laurel/governance/blob/main/docs/StrategicLandscape.md)
+
+### Start
+
+Since the normal placement of blockchain tech is usually:
+
+- everything knowable
+...
+  - Mathematics
+    - Applied Mathematics
+      - Computer Science
+      ...
+        - Decentralized Systems
+          - Decentralized Ledger
+            - Blockchain Technologies
+
+But Blockchain tech has obvious relationships with governance, ethics, Economics, etc. So, when we put it at root level, the immediate next level will have to be the linked Sciences (including Computer Science)
+
+- Blockchain Technologies
+  - Mathematics
+  - Computer Science (deepest and most populated tree expected under this node)
+  - Philosophy, Ethics
+  - Economics
+  - Sociology
