@@ -67,5 +67,5 @@ Each of these domains of knowledge has their own classification graph. If that g
 ### Implementation
 
 As in any SKOS system, we can opt for a flexible RDF triples database for information persistence that is further linked with the official classifications graphs (such as those referred to in the previous section) in such a way that the web2 and/or web3 navigation can access the actual research papers that are hosted on sites like https://arxiv.org/
-
+That means full-text search for the (labels of the) nodes in the database.
 
