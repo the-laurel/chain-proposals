@@ -53,7 +53,7 @@ Since the normal placement of blockchain tech is usually:
           - Decentralized Ledger
             - Blockchain Technologies
 
-But Blockchain tech has obvious relationships with governance, ethics, Economics, etc. So, when we put it at root level, the immediate next level will have to be the linked Sciences (including Computer Science)
+But Blockchain tech has obvious relationships with governance, ethics, Economics, etc. So, when we put it at the root level, the immediate next level will have to be the linked Sciences (including Computer Science)
 
 - Blockchain Technologies
   - Mathematics
@@ -61,3 +61,11 @@ But Blockchain tech has obvious relationships with governance, ethics, Economics
   - Philosophy, Ethics
   - Economics
   - Sociology
+
+Each of these domains of knowledge has their own classification graph. If that graph has a node related to Blockchain, that node has to be presented in the BCS.
+
+### Implementation
+
+As in any SKOS system, we can opt for a flexible RDF triples database for information persistence that is further linked with the official classifications graphs (such as those referred to in the previous section) in such a way that the web2 and/or web3 navigation can access the actual research papers that are hosted on sites like https://arxiv.org/
+
+
