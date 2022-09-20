@@ -74,7 +74,7 @@ That means a full-text search for the (labels of the) nodes in the database.
 Those are in the ascending order of expected value:
 - hosting a database with good indexing for full-text search: maybe a distributed PostgreSQL-like
 - hosting 2 websites (one for the research graph and one for discussions)
-- creating the site for discussions with the academic interest of Evmos, Ethermint, and Cosmos SDK as core (same model as https://ethereum-magicians.org/)
+- creating the site for discussions with the academic interest of Evmos, Ethermint, and Cosmos SDK as core (same model as https://ethereum-magicians.org/. maybe using the same [tech](https://github.com/discourse/discourse))
 - creating a web service that is able to add, modify, search, dump data, interface with https://arxiv.org/, maybe even with Semantic Web
 - expertise in data creation:
   - additions/modifications to the RDF graph (knowledge domain linking with already-accepted terminologies and classifications)
