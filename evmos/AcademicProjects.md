@@ -62,10 +62,33 @@ But Blockchain tech has obvious relationships with governance, ethics, Economics
   - Economics
   - Sociology
 
-Each of these domains of knowledge has their own classification graph. If that graph has a node related to Blockchain, that node has to be presented in the BCS.
+Each of these domains of knowledge has its own classification graph. If that graph has a node related to Blockchain, that node has to be presented in the BCS.
 
 ### Implementation
 
 As in any SKOS system, we can opt for a flexible RDF triples database for information persistence that is further linked with the official classifications graphs (such as those referred to in the previous section) in such a way that the web2 and/or web3 navigation can access the actual research papers that are hosted on sites like https://arxiv.org/
-That means full-text search for the (labels of the) nodes in the database.
+That means a full-text search for the (labels of the) nodes in the database.
 
+### Funding Items
+
+Those are in the ascending order of expected value:
+- hosting a database with good indexing for full-text search: maybe a distributed PostgreSQL-like
+- hosting 2 websites (one for the research graph and one for discussions)
+- creating the site for discussions with the academic interest of Evmos, Ethermint, and Cosmos SDK as core (same model as https://ethereum-magicians.org/)
+- creating a web service that is able to add, modify, search, dump data, interface with https://arxiv.org/, maybe even with Semantic Web
+- expertise in data creation:
+  - additions/modifications to the RDF graph (knowledge domain linking with already-accepted terminologies and classifications)
+  - motivation for peer review entries of new research
+  - linking each paper also to public discussions
+  - proposing papers for blockchain developers and communities for implementation or financial support
+
+### Management
+
+To start this project, Christian Tzurcanu (the author of this proposal), will work as a volunteer tasked from The Laurel Project in the interest and for the honor and fame of the Evmos Community. He will maintain the transparency of accounting on [this GitHub page](BCS_Accounting.md).
+Therefore, the management will be free of payment and with provable results.
+
+### Discussion
+
+This part will not the included on-chain: it is meant to improve the proposal to its final (on-chain) form.
+price discovery of the first useable version
+the initial list of domain experts or teams willing to participate in this first version
