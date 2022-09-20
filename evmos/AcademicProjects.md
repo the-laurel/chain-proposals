@@ -9,7 +9,7 @@ Our chain owes its very existence to previous research and implementation:
 - Cosmos SDK
 - Ethermint
 
-Even presently: most research is done by the Ethereum community and most other communities and chains benefit as freeloaders.
+Even presently: most research is done by the Ethereum community and most other communities and chains benefit as freeloaders. [See ETH Research](https://ethresear.ch/)
 
 This situation is not morally acceptable. We should and we want to give back resources and a direction for research.
 
@@ -35,7 +35,7 @@ We should seek to also provide for the next versions:
 
 We may find the following resources useful:
 
-- [Computing Classification System](https://github.com/SubjectRaw/SubjectRaw/blob/gh-pages/subject/data/eng/computing.md) in MD format
+- [Computing Classification System](https://raw.githubusercontent.com/SubjectRaw/SubjectRaw/gh-pages/subject/data/eng/computing.md) in MD format
 - [Computing Classification System](https://dl.acm.org/pb-assets/dl_ccs/acm_ccs2012-1626988337597.xml) in XML SKOS format
 - [An initial map of the blockchain knowledge](https://github.com/the-laurel/governance/blob/main/docs/StrategicLandscape.md)
 
@@ -89,6 +89,9 @@ Therefore, the management will be free of payment and with provable results.
 
 ### Discussion
 
-This part will not the included on-chain: it is meant to improve the proposal to its final (on-chain) form.
-price discovery of the first useable version
-the initial list of domain experts or teams willing to participate in this first version
+This discussion will not be included on-chain, but will be referenced in the on-chain text. It has these main directions: 
+
+- improvements the proposal to arrive at its final (on-chain) form
+- price discovery of the first useable version
+- the initial list of domain experts or teams willing to participate in this first version
+- additional ideas, improvements of the end product
