@@ -9,7 +9,7 @@ Our chain owes its very existence to previous research and implementation:
 - Cosmos SDK
 - Ethermint
 
-Even presently: most research is done by the Ethereum community and most other communities and chains benefit as freeloaders. [See ETH Research](https://ethresear.ch/)
+Even presently: most research is done by a handful of projects (See [ETH Research](https://ethresear.ch/)), and most other communities and derived chains benefit as freeloaders.
 
 This situation is not morally acceptable. We should and we want to give back resources and a direction for research.
 
@@ -91,7 +91,7 @@ Therefore, the management will be free of payment and with provable results.
 
 This discussion will not be included on-chain, but will be referenced in the on-chain text. It has these main directions: 
 
-- improvements the proposal to arrive at its final (on-chain) form
+- improvements to the proposal text to arrive at its final (on-chain) form
 - price discovery of the first useable version
 - the initial list of domain experts or teams willing to participate in this first version
 - additional ideas, improvements of the end product
