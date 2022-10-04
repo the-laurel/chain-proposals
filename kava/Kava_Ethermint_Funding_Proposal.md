@@ -29,7 +29,7 @@ Multisig on Kava will be created with the same composition.
 2. Ethermint's is developed and maintained by Tharsis & other contributors & volunteers.
 3. [Kava](https://www.kava.io/) is "One Network. Two Chains. Ethereum and Cosmos."
 4. Kava is today valued at ~$400M market cap
-5. Estimated total value locked: ~$140M
+5. Estimated Total Value Locked on Kava Co-Chains: $291M (Cosmos TVL: $274M, EVM TVL: $17M). [Source](https://defillama.com/chain/Kava).
 6. Initial investment in building and marketing Kava is less than $1M
 7. EVM support [was announced by Kava Labs on Aug 26, 2021](https://medium.com/kava-labs/kava-labs-announces-the-rebranding-of-kava-product-portfolio-68a9353f4d1c), in The Kava Product Roadmap diagram. "Kava 9 also implements several core infrastructural changes, paving the way for EVM support in H1 2022".
 8. "Kava Rise Program: $750M Developer Incentive Program. The structure of the Rise program will focus primarily on driving adoption and growth for the new Ethereum Co-Chain."
