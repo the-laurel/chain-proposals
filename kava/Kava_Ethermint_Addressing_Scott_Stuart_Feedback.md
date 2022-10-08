@@ -2,7 +2,7 @@
 
 The Evmos Community has taken into consideration @Scott_Stuart_'s [Twitter feedback](https://twitter.com/Scott_Stuart_/status/1563228443436728321). And it has separated the funding request for future Ethermint development from past development which $KAVA has already benefited from (image, branding, TVL, price).
 
-The current Evmos Community request on behalf of Tharsis is: <LINK last Reddit post>, for Ethermint past development efforts, done until September 1st 2022. With an ask of 1.25M (1,250,000) $EVMOS ($KAVA amount TBD next Tuesday).
+The current Evmos Community request on behalf of Tharsis, for Ethermint past development efforts, done until September 1st 2022 [has been posted on Kava's Reddit on October 8th, 2022](https://www.reddit.com/r/kava_platform/comments/xyxr1o/prevotelast_version_ethermint_funding_proposal/). With an ask of 1.25M (1,250,000) $EVMOS ($KAVA amount TBD next Tuesday).
 
 ## 0.)
 > [https://twitter.com/Scott_Stuart_/status/1563228448453042176](https://twitter.com/Scott_Stuart_/status/1563228448453042176)
