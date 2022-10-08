@@ -1,4 +1,3 @@
-# Ethermint Funding Proposal For Past Development, Addressed from The Evmos Community to The Kava Community
 
 **This is an inter-chain diplomacy proposal for the Evmos Community to ask the Kava Community to reward [Ethermint past development efforts](https://github.com/evmos/ethermint/graphs/contributors) (done until September 1st 2022), with 1.25M (1,250,000) EVMOS. The equivalent amount in $KAVA is <TBD>. The entire amount will be sent to an Evmos Community controlled multisig.**
 
@@ -8,10 +7,10 @@ $KAVA tokens will be used to buy $EVMOS. On Evmos, the 1.25M $EVMOS will be used
 
 1. stake the $EVMOS to active validators that have under 0.66% voting power, to improve Evmos's Nakamoto Coefficient (the beneficiary, Tharsis, will select the validators)
 2. fund Ethermint development from staking rewards
-3. Recommandations: 
+3. Recommendations: 
  - 3.1. the equivalent of 0.25M $EVMOS (in $KAVA) can be used to provide $KAVA liquidity to Evmos DEXes.
  - 3.2. $KAVA -> $EVMOS swap to be done in Evmos DEXes, to the extent possible. This is out of respect for the Kava Community, to have a gradual token swap.
- - 3.3. *_The Evmos Community multisig signers will lead the above processes and decision making and will forward $EVMOS to a Tharsis owned account, for staking._
+ - 3.3. *_The Evmos Community multisig signers will lead the above processes and decision-making and will forward $EVMOS to a Tharsis-owned account, for staking._
 
 Multisig on Evmos: `0xd04DB421f518D0E3449D2A3cefEac25b31485c71`
 
@@ -26,7 +25,7 @@ Multisig on Kava will be created with the same composition. [Multisig signers se
 ## A. Summary of Facts
 
 1. [Ethermint](https://github.com/evmos/ethermint/graphs/contributors) is a Go module that bridges the Cosmos APIs (Cosmos SDK, Tendermint, IBC, etc) to EVM (using the [go-ethereum](https://github.com/ethereum/go-ethereum) library as module). It is the de-facto way to have EVM-powered Cosmos chains.
-2. Ethermint's is developed and maintained by Tharsis & other contributors & volunteers.
+2. Ethermint is developed and maintained by Tharsis & other contributors & volunteers.
 3. [Kava](https://www.kava.io/) is "One Network. Two Chains. Ethereum and Cosmos."
 4. Kava is today valued at ~$400M market cap
 5. Estimated Total Value Locked on Kava Co-Chains: $291M (Cosmos TVL: $274M, EVM TVL: $17M). [Source](https://defillama.com/chain/Kava).
@@ -65,7 +64,7 @@ Off-chain polls & discussion for price discovery were opened in [Evmos Commonwea
 
 ## D. What will Kava stand to gain?
 
-Ethermint will enter the most technically interesting phase: custom precompiles and EVM-Inter-Chain. Working prototypes already exist and [were presented](https://youtu.be/x75UobIr4qo?t=14670) and the ground work for Ethermint was set with [this PR](https://github.com/evmos/ethermint/pull/1272).
+Ethermint will enter the most technically interesting phase: custom precompiles and EVM-Inter-Chain. Working prototypes already exist and [were presented](https://youtu.be/x75UobIr4qo?t=14670) and the groundwork for Ethermint was set with [this PR](https://github.com/evmos/ethermint/pull/1272).
 
 (Proposal Lead:) I have personally developed the Go groundwork for inter-chain cooperation and deployed three public technical blockchains with EVM-Cosmos (Mythos, Ethos, and Logos), for demoing the inter-chain tech and I will re-base my work on the Ethermint extensibility of EVM precompiles. Some precompiles that I created that are pertinent to this:
 
@@ -89,7 +88,7 @@ In the long run, Kava can be seen as uncooperative by the interchain organizatio
 3. Ethermint is a core piece of infrastructure that brings value to Cosmos. The Cosmos Community should fight to keep it open-source and well-developed.
 4. Fairly rewarding effort made to evolve Cosmos is critical to inter-chain cooperation.
 5. Upholding the values of decentralized governance in each chain is a critical requirement for any inter-chain cooperation.
-6. CosmWasm tech (developed by Confio) is in a similar position as Ethermint. A first example of leadership through fairness and collaboration is [Osmosis rewarding Confio with 750,000 OSMO](https://commonwealth.im/osmosis/discussion/2968-proposal-integrating-cosmwasm-into-osmosis), valued then at ~$3M, for integrating existing CosmWasm functionality into Osmosis.
+6. CosmWasm tech (developed by Confio) is in a similar position as Ethermint. The first example of leadership through fairness and collaboration is [Osmosis rewarding Confio with 750,000 OSMO](https://commonwealth.im/osmosis/discussion/2968-proposal-integrating-cosmwasm-into-osmosis), valued then at ~$3M, for integrating existing CosmWasm functionality into Osmosis.
 
 ## G. Votes
 
@@ -99,5 +98,4 @@ If you vote YES: you agree to reward Ethermint past development efforts with the
 
 This proposal was led on behalf of the Evmos Community, by Loredana Cirstea - elected by vote in the Evmos Interchain Office (Evmos Governance proposal #45) and a volunteer from [The Laurel Project](https://evolve.provable.dev/). This proposal is made from a volunteer capacity (independent, unpaid, self-funded, and from the heart).
 
-_*The Laurel Project's view: For the flourishing of core blockchain tech, we would like to arrive to an evolved type of license that allows for opening the source for auditing, educational, non-profit and small-profit purposes, but does not allow for blatant profeteering without returning anything to the original authors. We named this "a moral license". And it may help the technical evolution of the whole Cosmos space, by ensuring that effort and IP is fairly rewarded and protected, regardless of the marketing or financial power of those who contribute._
-
+_*The Laurel Project's view: For the flourishing of core blockchain tech, we would like to arrive at an evolved type of license that allows for opening the source for auditing, educational, non-profit, and small-profit purposes, but does not allow for blatant profiteering without returning anything to the original authors. We named this "a moral license". And it may help the technical evolution of the whole Cosmos space, by ensuring that effort and IP are fairly rewarded and protected, regardless of the marketing or financial power of those who contribute._
