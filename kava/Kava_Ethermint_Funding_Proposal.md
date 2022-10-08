@@ -1,3 +1,4 @@
+# Ethermint Funding Proposal For Past Development, Addressed from The Evmos Community to The Kava Community
 
 **This is an inter-chain diplomacy proposal for the Evmos Community to ask the Kava Community to reward [Ethermint past development efforts](https://github.com/evmos/ethermint/graphs/contributors) (done until September 1st 2022), with 1.25M (1,250,000) EVMOS. The equivalent amount in $KAVA is <TBD>. The entire amount will be sent to an Evmos Community controlled multisig.**
 
