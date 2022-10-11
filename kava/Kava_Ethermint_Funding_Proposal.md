@@ -1,6 +1,8 @@
 # Ethermint Funding Proposal For Past Development, Addressed from The Evmos Community to The Kava Community
 
-**This is an inter-chain diplomacy proposal for the Evmos Community to ask the Kava Community to reward [Ethermint past development efforts](https://github.com/evmos/ethermint/graphs/contributors) (done until September 1st 2022), with 1.25M (1,250,000) EVMOS. The equivalent amount in $KAVA is <TBD>. The entire amount will be sent to an Evmos Community controlled multisig.**
+**This is an inter-chain diplomacy proposal for the Evmos Community to ask the Kava Community to reward [Ethermint past development efforts](https://github.com/evmos/ethermint/graphs/contributors) (done until October 1st 2022), with 1.25M (1,250,000) EVMOS. The equivalent amount in $KAVA is 1,326,013 $KAVA (calculated at $1.57 $EVMOS, $1.48 $KAVA). The entire amount will be sent to an Evmos Community controlled multisig.**
+
+Discussion: [https://www.reddit.com/r/kava_platform/comments/xyxr1o/prevotelast_version_ethermint_funding_proposal/](https://www.reddit.com/r/kava_platform/comments/xyxr1o/prevotelast_version_ethermint_funding_proposal/).
 
 The initial request (2.5M $EVMOS) was reduced to 1.25M $EVMOS. Comments on [Kava Reddit 1](https://www.reddit.com/r/kava_platform/comments/xpll7c/comment/iqixeqd/?context=3), [Kava Reddit 2](https://www.reddit.com/r/kava_platform/comments/xpll7c/comment/irblgcg/?%2524deep_link=true&correlation_id=ead1bae1-408e-4789-898d-dd68ad5f6698), [Evmos Commonwealth](https://commonwealth.im/evmos/discussion/6867-external-ethermint-funding-proposal-on-kava-price-discovery-vote?comment=30837), [Evmos Governance Council](https://youtu.be/4oTZyf0SNwE?t=1840). 
 
@@ -15,13 +17,22 @@ $KAVA tokens will be used to buy $EVMOS. On Evmos, the 1.25M $EVMOS will be used
 
 Multisig on Evmos: `0xd04DB421f518D0E3449D2A3cefEac25b31485c71`
 
+[Multisig signers selection on Evmos Discord](https://discord.com/channels/809048090249134080/913597332073898034/1020236682907353212)
+
 * Mr.Sir | Orbital Apes
 * InstaFinanzas | Stakin
 * LPX | Evmos Governance
 * arda | Validator.run
 * luisqa | OzMage Validation
 
-Multisig on Kava will be created with the same composition. [Multisig signers selection on Evmos Discord](https://discord.com/channels/809048090249134080/913597332073898034/1020236682907353212)
+Multisig on Kava: `kava1809ey47kugp6qjcxq333m74nc3vm9ha6kywzkt`
+
+* Mr.Sir | Orbital Apes
+* InstaFinanzas | Stakin
+* Loredana Cirstea | The Laurel Project
+* arda | Validator.run
+* luisqa | OzMage Validation
+
 
 ## A. Summary of Facts
 
@@ -43,7 +54,7 @@ Multisig on Kava will be created with the same composition. [Multisig signers se
   - 15.1. [Discussion on Evmos Commonwealth](https://commonwealth.im/evmos/discussion/6867-external-ethermint-funding-proposal-on-kava-price-discovery-vote) 
   - 15.2. Governance Council Discussions: [1](https://youtu.be/Pn_u6WyiQ6c?t=544), [2](https://youtu.be/n-XaFrDV7mE?t=677), [3](https://youtu.be/PegeRNuK9F4?t=624), [4](https://youtu.be/4oTZyf0SNwE?t=1840)
   - 15.3. [Proposal #62](https://www.mintscan.io/evmos/proposals/62) officially passed on Evmos Governance, on-chain.
-  - 15.4. Pre-vote discussion was started on [Kava Reddit, 27th of Sept 2022](https://www.reddit.com/r/kava_platform/comments/xpll7c/ethermint_funding_proposal_for_past_development/) and now, 8th of October, 2022.
+  - 15.4. Pre-vote discussion was started on [Kava Reddit, 27th of Sept 2022](https://www.reddit.com/r/kava_platform/comments/xpll7c/ethermint_funding_proposal_for_past_development/) with final version on [8th of October, 2022](https://www.reddit.com/r/kava_platform/comments/xyxr1o/prevotelast_version_ethermint_funding_proposal/).
 
 ## B. Why the Evmos Community has standing?
 
