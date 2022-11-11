@@ -71,6 +71,11 @@ Technical Limitations <|-- Precedence Rules
 ```mermaid
 classDiagram
 
+class The Principle Of Integrity  {
+  created
+}
+link The Principle Of Integrity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfIntegrity.md"
+
 class The Principle Of Reflexivity  {
   created
 }
