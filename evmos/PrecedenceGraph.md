@@ -71,10 +71,15 @@ Technical Limitations <|-- Precedence Rules
 ```mermaid
 classDiagram
 
-class The Principle Of Integrity  {
+class Technical Limitations {
   created
 }
-link The Principle Of Integrity "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfIntegrity.md"
+link Technical Limitations "https://github.com/the-laurel/chain-proposals/edit/main/evmos/PrecedenceGraph.md#technical-limitations"
+
+class The Principle Of Determinism  {
+  created
+}
+link The Principle Of Determinism "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfDeterminism.md"
 
 class The Principle Of Reflexivity  {
   created
@@ -116,8 +121,12 @@ class The Principle Of Continuity Of State {
 }
 link The Principle Of Continuity Of State "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfContinuityOfState.md"
 
-The Principle Of Integrity  <|-- The Principle Of Transformation
+The Principle Of Integrity  <|-- The Principle Of Determinism
 The Principle Of Integrity  <|-- The Principle Of Reflexivity
+The Principle Of Integrity  <|-- The Principle Of Identity
+
+The Principle Of Determinism <|-- The Principle Of Transformation
+The Principle Of Determinism <|-- The Principle Of Continuity Of State
 
 The Principle Of Identity  <|-- Existence Of Principles 
 The Principle Of Continuity Of State  <|-- Existence Of Principles 
