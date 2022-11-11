@@ -17,6 +17,6 @@ The same has to apply to the consensus on governance. The source code (proposal 
 Governance is the pre-eminent mechanism for establishing the rules of the game. There is governance by code (and that is already deterministic for blockchains case) and governance by vote (and that too should strive to be fully deterministic). The rules of the game should be universally-understood in the same way by the players before a game is enjoined.
 
 ## Rules
-1. If 2 paragraphs of text for a perspective proposal can carry the same meaning but one is more deterministic than the other, the proposal has to choose the former.
+1. If 2 paragraphs of text for a prospective proposal can carry the same meaning but one is more deterministic than the other, the proposal has to choose the former.
 2. A computer language is preferable to a natural language for any governance proposal.
 3. Terseness up to the point of achieving the unicity of meaning (but not more terse than that) is more deterministic.
