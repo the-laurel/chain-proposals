@@ -145,23 +145,46 @@ Existence Of Principles <|-- Technical Limitations
 ```mermaid
 classDiagram
 
+class Discover The Moral Values Hierarchy {
+  created
+}
+link Discover The Moral Values Hierarchy "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_DiscoverHierarchy.md" 
+
+class Enact The Moral Values Hierarchy {
+  created
+}
+link Enact The Moral Values Hierarchy "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_EnactHierarchy.md" 
+
+
 class The Principle Of Existence Of Aspirations {
   created
 }
 link The Principle Of Existence Of Aspirations "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfExistenceOfAspirations.md" 
 
-class Aspiration_ Consciousness Is Good {
+
+class Consciousness Is Good {
   created
 }
-link Aspiration_ Consciousness Is Good "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_ConsciousnessIsGood.md" 
+link Consciousness Is Good "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_ConsciousnessIsGood.md" 
 
-class Aspiration_ Truth Coordinates Will {
+class Truth Coordinates Will {
   created
 }
-link Aspiration_ Truth Coordinates Will "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_TruthCoordinatesWill.md" 
+link Truth Coordinates Will "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_TruthCoordinatesWill.md" 
 
-Aspiration_ Consciousness Is Good <|-- The Principle Of Existence Of Aspirations
-Aspiration_ Truth Coordinates Will  <|-- Aspiration_ Consciousness Is Good
+class The Principle Of Rationality {
+  created
+}
+link The Principle Of Rationality "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfRationality.md"
+
+Consciousness Is Good <|-- The Principle Of Existence Of Aspirations
+Truth Coordinates Will  <|-- Consciousness Is Good
+
+Discover The Moral Values Hierarchy <|-- Consciousness Is Good
+Discover The Moral Values Hierarchy <|-- The Principle Of Rationality
+Enact The Moral Values Hierarchy <|-- Discover The Moral Values Hierarchy 
+Enact The Moral Values Hierarchy <|-- Truth Coordinates Will
+Discover The Moral Values Hierarchy <|-- Truth Coordinates Will
 
 ```
 
