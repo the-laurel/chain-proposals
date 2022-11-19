@@ -188,6 +188,50 @@ Discover The Moral Values Hierarchy <|-- Truth Coordinates Will
 
 ```
 
+## Big Graph
+
+```mermaid
+
+classDiagram
+
+Language Limitations <|-- Words And Concepts
+Language Limitations <|-- Grammar And Syntax Tree
+Naming And Versioning <|-- Language Limitations
+Naming And Versioning <|-- Governance Infrastructure
+Technical Limitations <|-- Naming And Versioning
+Technical Limitations <|-- Precedence Rules
+
+
+The Principle Of Integrity  <|-- The Principle Of Determinism
+The Principle Of Integrity  <|-- The Principle Of Reflexivity
+The Principle Of Integrity  <|-- The Principle Of Identity
+
+The Principle Of Determinism <|-- The Principle Of Transformation
+The Principle Of Determinism <|-- The Principle Of Continuity Of State
+
+The Principle Of Identity  <|-- Existence Of Principles 
+The Principle Of Continuity Of State  <|-- Existence Of Principles 
+The Principle Of Transformation <|-- Existence Of Principles 
+The Principle Of Reflexivity <|-- Existence Of Principles 
+The Principle Of Rationality <|-- Existence Of Principles
+The Principle Of Existence Of Aspirations <|-- Existence Of Principles
+
+Existence Of Principles <|-- Technical Limitations
+
+
+Truth Coordinates Will <|-- The Principle Of Integrity
+Consciousness Is Good <|-- The Principle Of Existence Of Aspirations
+Truth Coordinates Will  <|-- Consciousness Is Good
+
+Discover The Moral Values Hierarchy <|-- Consciousness Is Good
+Discover The Moral Values Hierarchy <|-- The Principle Of Rationality
+Enact The Moral Values Hierarchy <|-- Discover The Moral Values Hierarchy 
+Enact The Moral Values Hierarchy <|-- Truth Coordinates Will
+Discover The Moral Values Hierarchy <|-- Truth Coordinates Will
+
+
+```
+
 
 ## Community Constitution
 
