@@ -124,6 +124,7 @@ link The Principle Of Continuity Of State "https://github.com/the-laurel/chain-p
 The Principle Of Integrity  <|-- The Principle Of Determinism
 The Principle Of Integrity  <|-- The Principle Of Reflexivity
 The Principle Of Integrity  <|-- The Principle Of Identity
+The Principle Of Integrity  <|-- The Principle Of Rationality
 
 The Principle Of Determinism <|-- The Principle Of Transformation
 The Principle Of Determinism <|-- The Principle Of Continuity Of State
@@ -205,6 +206,7 @@ Technical Limitations <|-- Precedence Rules
 The Principle Of Integrity  <|-- The Principle Of Determinism
 The Principle Of Integrity  <|-- The Principle Of Reflexivity
 The Principle Of Integrity  <|-- The Principle Of Identity
+The Principle Of Integrity  <|-- The Principle Of Rationality
 
 The Principle Of Determinism <|-- The Principle Of Transformation
 The Principle Of Determinism <|-- The Principle Of Continuity Of State
@@ -224,7 +226,7 @@ Consciousness Is Good <|-- The Principle Of Existence Of Aspirations
 Truth Coordinates Will  <|-- Consciousness Is Good
 
 Discover The Moral Values Hierarchy <|-- Consciousness Is Good
-Discover The Moral Values Hierarchy <|-- The Principle Of Rationality
+
 Enact The Moral Values Hierarchy <|-- Discover The Moral Values Hierarchy 
 Enact The Moral Values Hierarchy <|-- Truth Coordinates Will
 Discover The Moral Values Hierarchy <|-- Truth Coordinates Will
