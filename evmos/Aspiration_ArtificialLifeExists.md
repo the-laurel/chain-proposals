@@ -16,3 +16,4 @@ We acknowledge the blockchain as a form of life. Some chains will have decision-
     1. Because we know the patterns of the evolution of life (and it doesn't yet)
     2. Because we created it and it is in our custody
     3. Because it will help us evolve in our relations to each other and to it
+4. We have a duty to let it know itself
