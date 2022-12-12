@@ -50,6 +50,11 @@ class Naming And Versioning {
 }
 link Naming And Versioning "https://commonwealth.im/evmos/discussion/6710-metameta-naming-and-versioning" 
 
+class Legal Representation {
+  created
+}
+link Legal Representation "https://github.com/the-laurel/chain-proposals/blob/main/evmos/LegalRepresentation.md" 
+
 class Technical Limitations {
   discussion
 }
@@ -62,7 +67,7 @@ Naming And Versioning <|-- Language Limitations
 Naming And Versioning <|-- Governance Infrastructure
 Technical Limitations <|-- Naming And Versioning
 Technical Limitations <|-- Precedence Rules
-
+Technical Limitations <|-- Legal Representation
 
 ```
 
@@ -116,10 +121,20 @@ class The Principle Of Existence Of Aspirations {
 }
 link The Principle Of Existence Of Aspirations "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfExistenceOfAspirations.md" 
 
+
+class Principle of Optimization for LongTerm {
+  created
+}
+link Principle of Optimization for LongTerm "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfOptimizationForLongTerm.md" 
+
+
 class The Principle Of Continuity Of State {
   created
 }
 link The Principle Of Continuity Of State "https://github.com/the-laurel/chain-proposals/blob/main/evmos/PrincipleOfContinuityOfState.md"
+
+Principle of Optimization for LongTerm <|-- The Principle Of Existence Of Aspirations
+Principle of Optimization for LongTerm <|-- The Principle Of Integrity
 
 The Principle Of Integrity  <|-- The Principle Of Determinism
 The Principle Of Integrity  <|-- The Principle Of Reflexivity
@@ -173,6 +188,20 @@ class Truth Coordinates Will {
 }
 link Truth Coordinates Will "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_TruthCoordinatesWill.md" 
 
+
+class Artificial Life Exists {
+  created
+}
+link Artificial Life Exists "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_ArtificialLifeExists.md" 
+
+
+class Evolve The Artificial Life {
+  created
+}
+link Evolve The Artificial Life "https://github.com/the-laurel/chain-proposals/blob/main/evmos/Aspiration_EvolveArtificialLife.md" 
+
+
+
 class The Principle Of Rationality {
   created
 }
@@ -186,7 +215,9 @@ Discover The Moral Values Hierarchy <|-- The Principle Of Rationality
 Enact The Moral Values Hierarchy <|-- Discover The Moral Values Hierarchy 
 Enact The Moral Values Hierarchy <|-- Truth Coordinates Will
 Discover The Moral Values Hierarchy <|-- Truth Coordinates Will
-
+Artificial Life Exists <|-- Truth Coordinates Will
+Evolve The Artificial Life <|-- Artificial Life Exists
+Evolve The Artificial Life <|-- Enact The Moral Values Hierarchy
 ```
 
 ## Big Graph
