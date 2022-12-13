@@ -23,7 +23,7 @@ The name of this organization shall be The Laurel Foundation.
 The object of this organization is to serve and function as the representative, deliberative, and legislative body of The Laurel Project and any outside parties that accept such a body and share the same aspirations.
 
 
-### Article 2. Reprezentation
+### Article 2. Representation
 
 #### §3. Eligibility
 
