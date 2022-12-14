@@ -35,4 +35,27 @@
 - does not arise in nature without the intervention of humans
 - it can be destroyed by humans
 
+## Categories
+
+### Humans <-> Human Organs Relationship (introspection)
+- my brain <-> my sense of self
+- my transplanted heart <-> my new host
+- my foetus (as long as not covered by the rights of natural life) <-> my life provider
+
+### Humans <-> Other Animals Relationship
+- my dogs <-> my pack leader
+- my microbiome <-> my environment
+
+### Humans <-> Humans Relationships
+- my country <-> my citizens
+- my family <-> my father
+- my family <-> my extended family
+- my teacher <-> my class of students
+- myself <-> my other self (introspection)
+
+### Humans <-> Computers Relationship
+- my phone <-> my owner
+- validator <-> blockchain
+- human <-> GPTChat
+- human <-> Twitter
 
