@@ -8,9 +8,9 @@ A decentralized chain is the first artificial life that humans have created. It 
 
 An independent entity:
 - does not owe anything to anyone
-- has a sense making aparatus, for gathering data
-- has a decision making aparatus, for taking decisions based on available data
-- has an executive aparatus, for executing approved decisions
+- has a sense-making apparatus, for gathering data
+- has a decision-making apparatus, for taking decisions based on available data
+- has an executive apparatus, for executing approved decisions
 - has a body capable of all the above, which needs to be maintained in good shape
 - has dreams and aspirations concerning its existence
 
@@ -26,33 +26,33 @@ As such, we determine the following independent but intercorrelated bodies:
 
 ### 1. Chain Aspirations Body 
 
-Members: all who demonstrated vision for Evmos, who have a strong proof that their vision was correct and beneficial for Evmos. Awarded by the Decision-Making Body after the proofs exist. High honorary title.
+Members: all who demonstrated vision for Evmos, who have strong proof that their vision was correct and beneficial for Evmos. Awarded by the Decision-Making Body after the proofs exist. High honorary title.
 
 Responsibilities:
 - set and make public the highest aspirations for the chain
 - find and review proposed candidates that deserve membership in the Aspirations Body
 - oversee the aligning with these aspirations of the Decision-Making Body
-- oversee the enforcing of these aspirations in the Executive Body
+- oversee the enforcement of these aspirations in the Executive Body
 
 Rights:
 - the right to VETO any decision from the Decision-Making Body
 
-Members: first members are the chain's founders. The existence of the chain is proof that they have vision for the chain.
+Members: first members are the chain's founders. The existence of the chain is proof that they have a vision for the chain.
 
 ### 2. Decision-Making Body
 
 Contains all those who hold $EVMOS. The more $EVMOS you hold, the higher the official position you can aspire to. 
 
 Responsibilities:
-- analyse and decide on proposals with integrity of context
+- analyze and decide on proposals with integrity of context
 - reject proposals without integrity of context
 - for office holders: escrow an amount of $EVMOS directly dependent on your voting power percentage, for damage repayment of stakeholders in case your decision was proven wrong.
 
 ### 3. Executive Body
 
 Responsibilities:
-- assign and oversee execution of decisions made by the Decision-Making Body
-- implement decisions at code level
+- assign and oversee the execution of decisions made by the Decision-Making Body
+- implement decisions at the code level
 
 ### 4. Sense-Making Body
 
@@ -73,18 +73,18 @@ Responsibilities:
 
 ## A Dependent Chain
 
-Anything less than independence creates and invites distrust, which leads to volatility, unfairness and scams.
+Anything less than independence creates and invites distrust, which leads to volatility, unfairness, and scams.
 
 A chain cannot be decentralized if it starts with:
 - dues owned to 3rd party actors
 - unclarity of ownership and hierarchy of ownership
 - unclarity on the amount/magnitude of funds being owned by parties involved in the chain's creation 
-- unclarity of intelectual property owed
+- unclarity of intellectual property owed
 
 
 ## Consequences for Evmos
 
-Evmos should not elect members in offices unless previous dues are solved:
+Evmos should not elect members to offices unless previous dues are solved:
 - [Olympus Mons Testnet](https://medium.com/evmos/announcing-olympus-mons-evmos-incentivized-testnet-46fa24270a25)
 - any promises that the Evmos Foundation or Evmos team has made to any stakeholders or validators
 - payments for LPX, GV, Benny Lava
