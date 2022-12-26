@@ -6,30 +6,35 @@ Discussion: [https://commonwealth.im/evmos/discussion/8551-governance-consensus-
 
 ### Purpose
 
-Clarify the parameters for natural language on-chain Governance.
+Clarify the parameters for the natural language used in Evmos Governance.
 
 ### Exposition
 
 To achieve authority of Governance, the chain needs to establish the most accessible ground for debate and voting. The language for the process of Governance is one of the main parameters and we consider that the best language for Evmos Governance is the English language.
 
-Since the meaning of the sentence and therefore paragraph can be changed by word meaning choice, by the punctuation signs, and by the resultant syntax tree, a consensus has to be reached on the unique arbiter for each, including the syntax tree of a proposal (in whole or in part).
+Since the meaning of the sentence and therefore paragraph can be changed by choice of word meaning, by the punctuation signs, and by the resultant syntax tree, a consensus has to be reached on the unique arbiter for each, including the syntax tree of a proposal (in whole or in part).
 
 ### Rules
 
-1. The accepted English dictionary for words and concepts and their semantic linking shall be the latest version of The Princeton Wordnet. http://www.lexvo.org/uwn/ with language option: English (eng).
+1. The accepted English dictionary for words and concepts and their semantic linking shall be the latest version of The Princeton Wordnet. http://www.lexvo.org/uwn/ with language option: English (eng). 
+    
+    The alternatives, in order (in their order of use when a source is unavailable):
+    * 1.1. http://www.lexvo.org/uwn/
+    * 1.2. http://wordnetweb.princeton.edu/perl/webwn
+    * 1.3. https://en-word.net/
 
-	Alternatives, in order (in their order of use when the above source is unavailable):
+2. Any governance text may contain words with subscript that indicates the order of sense of the word as it appears in WordNet. For example:
+> The chair<sub>3</sub> position is the most important.
 
-		1. http://wordnetweb.princeton.edu/perl/webwn
-		2. https://en-word.net/
+refers to the third meaning of the word "chair" from http://www.lexvo.org/uwn/entity/eng/chair : _(noun) the officer who presides at the meetings of an organization; "address your remarks to the chairperson" chairman, chairwoman, chairperson, president, chair_
 
-2. If concepts are not found in the source designated by point (1): Wikipedia may be used. https://en.wikipedia.org/
+3. If concepts are not found in the source designated by point (1): Wikipedia may be used. https://en.wikipedia.org/
 
-3. The syntax tree source shall be [http://lindat.mff.cuni.cz/services/udpipe/](http://lindat.mff.cuni.cz/services/udpipe/) with its English option.
+4. The syntax tree source shall be [http://lindat.mff.cuni.cz/services/udpipe/](http://lindat.mff.cuni.cz/services/udpipe/) with its English option. 
 
-	Alternatives, in order:
-
-		1. https://www.link.cs.cmu.edu/link/submit-sentence-4.html
+     The alternatives, in order: 
+     * 4.1. [http://lindat.mff.cuni.cz/services/udpipe/](http://lindat.mff.cuni.cz/services/udpipe/)
+     * 4.2. [https://www.link.cs.cmu.edu/link/submit-sentence-4.html](https://www.link.cs.cmu.edu/link/submit-sentence-4.html)
 
 ### Meaning of the Decision
 
