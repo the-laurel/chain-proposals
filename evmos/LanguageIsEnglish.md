@@ -1,5 +1,3 @@
-
-
 # Governance Consensus: The Governance Language is English
 
 ## The Natural Language for the Governance of the Evmos Chain is English
@@ -18,17 +16,26 @@ Since the meaning of the sentence and therefore paragraph can be changed by word
 
 ### Rules
 
-1. The accepted English dictionary for words and concepts and their semantic linking shall be the latest version of The Princeton Wordnet. http://www.lexvo.org/uwn/ with language option English (eng).
+1. The accepted English dictionary for words and concepts and their semantic linking shall be the latest version of The Princeton Wordnet. http://www.lexvo.org/uwn/ with language option: English (eng).
+
+	Alternatives, in order (in their order of use when the above source is unavailable):
+
+		1. http://wordnetweb.princeton.edu/perl/webwn
+		2. https://en-word.net/
 
 2. If concepts are not found in the source designated by point (1): Wikipedia may be used. https://en.wikipedia.org/
 
 3. The syntax tree source shall be [http://lindat.mff.cuni.cz/services/udpipe/](http://lindat.mff.cuni.cz/services/udpipe/) with its English option.
 
+	Alternatives, in order:
+
+		1. https://www.link.cs.cmu.edu/link/submit-sentence-4.html
+
 ### Meaning of the Decision
 
 - if this proposal passes: the governance process gains additional legitimacy by recognizing prior consensus contained in the gov language itself
 
-- if this proposal does not pass: the token holders forfeit the right to reject a proposal (on-chain or off-chain) on account of not being made in proper, verifiable English
+- if this proposal does not pass: the token holders forfeit the right to reject a proposal (on-chain or off-chain) on account of not being made using proper, verifiable English
 
 #### Additional Benefits of Adopting
 The subsequent proposals (on and off-chain) may be legitimately challenged on:
