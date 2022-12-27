@@ -21,7 +21,7 @@ Since the meaning of the sentence and therefore paragraph can be changed by choi
     The alternatives, in order (in their order of use when a source is unavailable):
     * 1.1. [http://www.lexvo.org/uwn/](http://www.lexvo.org/uwn/)
     * 1.2. [http://wordnetweb.princeton.edu/perl/webwn](http://wordnetweb.princeton.edu/perl/webwn)
-    * 1.3. https://en-word.net/(https://en-word.net/)
+    * 1.3. [https://en-word.net/](https://en-word.net/)
 
 2. Any governance text may contain words with subscript that indicates the order of sense of the word as it appears in WordNet. For example:
 > The chair<sub>3</sub> position is the most important.
@@ -39,7 +39,6 @@ refers to the third meaning of the word 'chair' from [http://www.lexvo.org/uwn/e
 ### Meaning of the Decision
 
 - if this proposal passes: the governance process gains additional legitimacy by recognizing prior consensus contained in the gov language itself
-
 - if this proposal does not pass: the token holders forfeit the right to reject a proposal (on-chain or off-chain) on account of not being made using proper, verifiable English
 
 #### Additional Benefits of Adopting
