@@ -6,7 +6,7 @@ Discussion:
 
 1. Only officers elected by on-chain governance may implement the decisions of the chain in the name of the chain.
 2. The officers shall not exceed the jurisdiction nor the described intent of their offices.
-3. The definition of offices is done by on-chain governance, before nominalizations and officer election for each office.
+3. The definition of offices is done by on-chain governance, before nominalizations and officer election for each respective office.
 4. Each office shall have means to being addressed in public and also in private.
 5. The integrity of the list of chain offices (including addressability) and their enacting officers shall be publicly available.
 
