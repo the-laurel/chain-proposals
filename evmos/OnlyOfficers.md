@@ -1,6 +1,6 @@
-# Governance Consensus: Only Elected Officers
+# Governance Consensus: Only Elected Officers May Represent the Will of the Chain
 
-Discussion: 
+Discussion: [https://commonwealth.im/evmos/discussion/8698-governance-consensus-only-elected-officers-may-represent-the-will-of-the-chain](https://commonwealth.im/evmos/discussion/8698-governance-consensus-only-elected-officers-may-represent-the-will-of-the-chain)
 
 ## Rules
 
