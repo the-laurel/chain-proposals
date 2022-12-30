@@ -55,6 +55,11 @@ class Legal Representation {
 }
 link Legal Representation "https://github.com/the-laurel/chain-proposals/blob/main/laurel/LegalRepresentation.md" 
 
+class Legal Proposals {
+  created
+}
+link Legal Proposals "https://github.com/the-laurel/chain-proposals/blob/main/laurel/OnlyLegal.md" 
+
 class Technical Limitations {
   created
 }
@@ -68,6 +73,7 @@ Naming And Versioning <|-- Governance Infrastructure
 Technical Limitations <|-- Naming And Versioning
 Technical Limitations <|-- Precedence Rules
 Technical Limitations <|-- Legal Representation
+Technical Limitations <|-- Legal Proposals
 
 ```
 
