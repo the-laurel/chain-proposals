@@ -239,6 +239,7 @@ Naming And Versioning <|-- Governance Infrastructure
 Technical Limitations <|-- Naming And Versioning
 Technical Limitations <|-- Precedence Rules
 Technical Limitations <|-- Legal Representation
+Technical Limitations <|-- Legal Proposals
 
 
 The Principle Of Integrity  <|-- The Principle Of Determinism
