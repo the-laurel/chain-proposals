@@ -1,5 +1,7 @@
 # Retroactive Payment for Public Goods (Evmos Development for March 2022)
 
+Discussion: [https://commonwealth.im/evmos/discussion/8571-retroactive-payment-for-public-goods-evmos-development-for-march-2022](https://commonwealth.im/evmos/discussion/8571-retroactive-payment-for-public-goods-evmos-development-for-march-2022)
+
 Since [proposal 88](https://www.mintscan.io/evmos/proposals/88) has been rejected, the volunteers for Tharsis and Evmos will have the opportunity to ask the Evmos chain for clarification of the status of their efforts.
 
 ## Exposition
@@ -90,22 +92,36 @@ Presence in calls: 9*0.5 + 1 * 2 = 6.5h
 
 ## Proofs
 
-1. The proof that the output of the effort exists as a public good: the videos exist and are public on YouTube, and the code exists and is public.
-2. The proof that it is about the Evmos chain/tech: the code is used by Ethermint/Evmos.
-3. The proof that the effort is of the quality and quantity claimed: Federico Kunze signed the confirmations for the effort, as a comment on [https://github.com/loredanacirstea/CV/issues/2](https://github.com/loredanacirstea/CV/issues/2), but he recently deleted that comment (he deleted all his public confirmations of my volunteering).
-4. The proof that this chain accepts claims for retroactive public goods is [proposal 88](https://www.mintscan.io/evmos/proposals/88).
+* 1. The proof that the output of the effort exists as a public good: the videos exist and are public on YouTube, and the code exists and is public.
+* 2. The proof that it is about the Evmos chain/tech: the code is used by Ethermint/Evmos.
+* 3. The proof that the effort is of the quality and quantity claimed: Federico Kunze signed the confirmations for the effort, as a comment on [https://github.com/loredanacirstea/CV/issues/2](https://github.com/loredanacirstea/CV/issues/2). The exact text was:
+> I confirm and acknowledge the stated output. Thanks @loredanacirstea! 💯
+> Federico Kunze Küllmer - CEO Tharsis Labs / Co-Founder Evmos
+> Fri, Mar 25, 2022, by [@fedekunze](https://github.com/fedekunze)
+
+but he recently deleted that comment (he deleted all his public confirmations of my volunteering).
+* 4. The proof that this chain accepts claims for retroactive public goods is [proposal 88](https://www.mintscan.io/evmos/proposals/88).
 
 ## Retroactive Payment
 
 359.5h * 255 euro/h = 91,672.5 eur
 
 
-## The Meaning of the Vote
+## The Meaning of the Decision
 
-1. If this proposal passes: the Evmos chain pays retroactively for this public good.
-2. If this proposal does not pass: the Evmos chain recognizes in perpetuity this public good as a volunteering effort of The Laurel Project in the interest of the Evmos Community. (or is bound to produce counter-proofs to the ones above)
+* 1. If this proposal passes: the Evmos chain pays retroactively for this public good.
+* 2. If this proposal does not pass: the Evmos chain recognizes in perpetuity this public good as a volunteering effort of The Laurel Project in the interest of the Evmos Community. (or is bound to produce counter-proofs to the ones above). The presented effort was made with the intent of being offered to the Evmos Community as a volunteer effort. The legitimate repayment for volunteer effort is the recognition of said effort in perpetuity. 
+* 3. No with veto: the chain benefits from and uses this free, unpaid effort, but it has decided to punish the author of this effort, for asking for formal recognition of the volunteered effort.
+
+## Receiver Address
+
+evmos1k9pw7ht4kp7td5450sdrkj2tmly3ug59ddhadn
+
 
 ## Author
 
 Loredana Cirstea, volunteer for The Laurel Project.
+
+
+
 
