@@ -2,21 +2,38 @@
 
 Discussion: [https://commonwealth.im/evmos/discussion/8698-governance-consensus-only-elected-officers-may-represent-the-will-of-the-chain](https://commonwealth.im/evmos/discussion/8698-governance-consensus-only-elected-officers-may-represent-the-will-of-the-chain)
 
-## Rules
+## Will Evmos Choose Its Own Executives?
+
+If this proposal passes: Evmos governance decisions may be implemented by legitimate elected officers.
+
+If this proposal does not pass: until the rejection is overturned, the Evmos chain may be represented by anybody and/or nobody.
+
+
+
+## Advantages of Adopting
+
+Non-exhaustive list of what is obtained, improved, or encouraged by passing this proposal:
+- provide transparency of:
+    - power structure
+    - actions done for the benefit of the chain
+- provide evidence of decentralization
+- clarify the assignment of responsibility
+- welcome cooperation with other chains
+- obtain delegation of representation
+- expand the types of actions the chain can govern
+- legitimize legal representation
+- legitimize officers using the chain itself (increased independence of legitimacy)
+
+
+## Measures
 
 1. Only officers elected by on-chain governance may implement the decisions of the chain in the name of the chain.
-2. The officers shall not exceed the jurisdiction nor the described intent of their offices.
-3. The definition of offices is done by on-chain governance, before nominalizations and officer election for each respective office.
-4. Each office shall have means to being addressed in public and also in private.
-5. The integrity of the list of chain offices (including addressability) and their enacting officers shall be publicly available.
+2. Offices must be concretely defined and created via on-chain governance before nomination and election of each respective office occurs. 
+3. Officers must not exceed their jurisdiction (as defined by on-chain governance above).
+4. Public and private communication channels, with open-door policies, must be concretely defined for each office.
+5. All offices, their enacting officers and communication channels must be publicly available.
 
-## Meaning of the Decision
+## Authors
 
-- if this proposal passes: the Evmos Chain may implement on-chain governance decisions by using legitimate human executives
-- if this proposal does not pass: the Evmos chain may be represented by anybody and/or nobody
-
-Only the chains that will pass proposals compatible with this one will have the legitimacy to enter common governance platforms for the InterChain. By this prop, we offered Evmos yet another opportunity to be the early leader in that respect.
-
-## Author
-
-Christian Tzurcanu, volunteer for The Laurel Project. Efforts performed for The InterChain Pact office.
+- Christian Tzurcanu, volunteer for [The Laurel Project](https://mobile.twitter.com/provable_laurel). Efforts performed for [The InterChain Pact office](https://github.com/loredanacirstea/cosmos-interchain-pact).
+- Black Lodge, Evmos benefactor.
