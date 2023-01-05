@@ -1,6 +1,11 @@
 # Governance Consensus: No Criminal Decisions
 
-Discussion: https://commonwealth.im/evmos/discussion/8616-governance-consensus-only-legal-decisions
+The context is https://www.reddit.com/r/cosmosnetwork/comments/1032ehn/how_to_centralize_a_chain_by_manipulating_cosmos/. This thread is intended as a public discussion space for the proposal below, brought to Evmos Governance.
+
+Previous discussion: https://commonwealth.im/evmos/discussion/8616-governance-consensus-only-legal-decisions (today my CommonWealth account was banned, therefore this Reddit thread is the discussion)
+
+Proof that my CommonWealth account was banned: https://raw.githubusercontent.com/the-laurel/chain-proposals/main/evmos/assets/banned_CW.png
+
 
 ## Rules
 
