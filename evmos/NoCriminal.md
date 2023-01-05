@@ -1,15 +1,20 @@
 # Governance Consensus: No Criminal Decisions
 
-The context is https://www.reddit.com/r/cosmosnetwork/comments/1032ehn/how_to_centralize_a_chain_by_manipulating_cosmos/. This thread is intended as a public discussion space for the proposal below, brought to Evmos Governance.
+## Context
+
+I am sorry I had to use Cosmos Reddit for Evmos Governance purposes. Please read the post linked for the explanation:
+https://www.reddit.com/r/cosmosnetwork/comments/1032ehn/how_to_centralize_a_chain_by_manipulating_cosmos/. So this thread is intended as a public discussion space for the proposal below, brought to Evmos Governance.
+
+Discussion: https://www.reddit.com/r/cosmosnetwork/comments/1042r2j/governance_consensus_no_criminal_decisions_evmos/
 
 Previous discussion: https://commonwealth.im/evmos/discussion/8616-governance-consensus-only-legal-decisions (today my CommonWealth account was banned, therefore this Reddit thread is the discussion)
 
 Proof that my CommonWealth account was banned: https://raw.githubusercontent.com/the-laurel/chain-proposals/main/evmos/assets/banned_CW.png
 
 
-## Rules
+## Measures
 
-The Evmos chain shall pass only decisions that are not criminal according to Criminal Law. By the Criminal Law we understand the criminal code covered by International Law, Federal Law, EU Law, and the laws of the countries, states, and lands that have jurisdiction over the $EVMOS token holders.
+The Evmos chain shall pass only decisions that are not criminal according to Criminal Law. By the Criminal Law, we understand the criminal code covered by International Law, Federal Law, EU Law, and the laws of the countries, states, and lands that have jurisdiction over the $EVMOS token holders.
 
 ## Meaning of the Decision
 
