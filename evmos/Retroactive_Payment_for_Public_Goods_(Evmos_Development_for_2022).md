@@ -1,9 +1,11 @@
 # Retroactive Payment for Public Goods (Evmos Development for 2022)
 
+Discussion: [https://www.reddit.com/r/cosmosnetwork/comments/1032uyo/retroactive_payment_for_public_goods_evmos/](https://www.reddit.com/r/cosmosnetwork/comments/1032uyo/retroactive_payment_for_public_goods_evmos/)
 
-Discussion: [https://commonwealth.im/evmos/discussion/8811-retroactive-payment-for-public-goods-evmos-development-for-2022](https://commonwealth.im/evmos/discussion/8811-retroactive-payment-for-public-goods-evmos-development-for-2022)
+Initial discussion was at: [https://commonwealth.im/evmos/discussion/8811-retroactive-payment-for-public-goods-evmos-development-for-2022](https://commonwealth.im/evmos/discussion/8811-retroactive-payment-for-public-goods-evmos-development-for-2022), but [the post was hidden](https://github.com/the-laurel/chain-proposals/raw/main/evmos/assets/evmos_volunteer_effort_thread_proof.png) and my account was banned (I cannot participate in Evmos Commonwealth governance).
 
-tl;dr
+## tl;dr
+
 Same as [proposal 95](https://www.mintscan.io/evmos/proposals/95), accounting for the rest of 2022.
 
 Since [proposal 88](https://www.mintscan.io/evmos/proposals/88) has been rejected, the volunteers for Tharsis and Evmos will have the opportunity to ask the Evmos chain for clarification of the status of their efforts.
@@ -28,7 +30,7 @@ The Laurel Project which volunteered for Tharsis for developing a good portion o
 
 ## Proofs
 
-* 1. The proof that the output of the effort exists as a public good: the videos exist and are public on YouTube, and the code exists and is public.
+* 1. The proof that the output of the effort exists as a public good: the videos exist and are [public on YouTube](https://www.youtube.com/c/LoredanaCirstea/videos), and the code exists and is public.
 * 2. The proof that it is about the Evmos chain/tech: the code is used by Ethermint/Evmos.
 * 3. The proof that the effort is of the quality and quantity claimed: Tharsis signed the confirmations for the effort, as comments on:
   * [https://github.com/loredanacirstea/CV/issues/1](https://github.com/loredanacirstea/CV/issues/1)
@@ -43,7 +45,8 @@ The Laurel Project which volunteered for Tharsis for developing a good portion o
   > ACK. I cannot comment on the number of hours spent since can't verify that, but I can confirm the output of the volunteering effort on Evmos and Ethermint.
   > Federico Kunze Küllmer - Evmos
   > Tue, Jun 14, 2022, by [@fedekunze](https://github.com/fedekunze)
-but he recently deleted that comment (he deleted all his public confirmations of my volunteering).
+
+but he recently deleted those comments and all his public confirmations of my volunteering.
   * Other confirmations from Tharsis at [https://github.com/loredanacirstea/CV/issues/5](https://github.com/loredanacirstea/CV/issues/5), [https://github.com/loredanacirstea/CV/issues/6](https://github.com/loredanacirstea/CV/issues/6), [https://github.com/loredanacirstea/CV/issues/7](https://github.com/loredanacirstea/CV/issues/7)
 
 * 4. The proof that this chain accepts claims for retroactive public goods is [proposal 88](https://www.mintscan.io/evmos/proposals/88).
@@ -53,15 +56,15 @@ but he recently deleted that comment (he deleted all his public confirmations of
 372 + 391.3 + 376 + 26 + 3.5 + 524 + 313 + 290 + 304 = 2599.8
 
 * 2599.8h * 255 EUR/h = 662,949 EUR
-* current price: TBD EUR/ $EVMOS
+* current price: 0.424850 EUR/ $EVMOS
 
-Total: TBD $EVMOS
+Total: 1,560,430 $EVMOS
 
 ## The Meaning of the Decision
 
 * 1. If this proposal passes: the Evmos chain pays retroactively for this public good.
 * 2. If this proposal does not pass: the Evmos chain recognizes in perpetuity this public good as a volunteering effort of The Laurel Project in the interest of the Evmos Community. (or is bound to produce counter-proofs to the ones above). The presented effort was made with the intent of being offered to the Evmos Community as a volunteer effort. The legitimate repayment for volunteer effort is the recognition of said effort. 
-* 3. No with veto: the chain benefits from and uses this free, unpaid effort, but it has decided to punish the author of this effort, for requesting formal recognition of the volunteered effort.
+* 3. No with veto: the effort will be considered either as charity to the ungrateful or/and as an acquisition of services by means of extorsion and unfulfilled promises.
 
 ## Receiver Address
 
@@ -71,4 +74,3 @@ evmos1k9pw7ht4kp7td5450sdrkj2tmly3ug59ddhadn
 ## Author
 
 Loredana Cirstea, volunteer for The Laurel Project.
-
