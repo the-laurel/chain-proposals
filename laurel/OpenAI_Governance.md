@@ -13,15 +13,16 @@ We are volunteers for The Laurel Project and Mythos chain. This application is n
 | Metric | x/5 | Explanation |
 | ---------------- | -------- | -------- |
 | [Robustness](#Robustness)       | 5    | - uses blockchain tech <br>- uses legal means  |
-| [Inclusiveness and Representativeness](#Inclusiveness-and-Representativeness) | 4    | - blockchain is already widespread<br> - Estonian eIDs are not available in Russia and Belarusia    |
+| [Inclusiveness and Representativeness](#Inclusiveness-and-Representativeness) | 4    | - blockchain is already widespread<br> - Estonian eIDs are not available in Russia and Belarus    |
 | [Empowerment of Minority Opinions](#Empowerment-of-Minority-Opinions) | 4  | - domains of expertise will benefit from weighted voting |
 | [Effective Moderation](#Effective-Moderation) | 5 | - moderation enforced by black and grey listing|
 | [Scalability](#Scalability) | 5 | - by sidechains or rollups |
 | [Actionability](#Actionability) | x | - as actionable as the AI model can guarantee |
 | [Legibility](#Legibility) | 4 | - the process has a flow diagram |
-| [+ Legal](#And-More) | 5 | - using EU and International Law |
+| [+ Authoritative and Legal](#And-More) | 5 | - based on EU and International Law |
 | [+ Verification](#And-More) | 5 | - the same blockchain can be used to account for the training |
-| [+ Mythos' Character](#The-Character-and-Features-of-Mythos) | 5 | - an unique combination |
+| [+ Moral Character](#The-Character-and-Features-of-Mythos) | 5 | - an unique history of service |
+| [+ Performance and Features](#The-Character-and-Features-of-Mythos) | 5 | - an unique combination of features |
 
 
 *We encourage participants to establish metrics for evaluating the quality of their methods, such as participant satisfaction, shifts in polarization, scalability, or other relevant indicators, and to invent new metrics for a healthy democratic process. *
@@ -58,7 +59,6 @@ The representation can be quite flexible. By the governance plugin, the paramete
 
 *Addressing challenges in moderation, including ensuring diverse representation of viewpoints, distinguishing valuable contributions from "off-topic" comments, and preventing moderator biases from influencing the process.*
 
-
 ## Scalability
 
 By using Merkle proofs, this voting can be scaled to the entire population of the planet. However, if the production of 1 block per 2-4 seconds is not enough: side-chains can be spawned out of Mythos on-demand. These chains' validator set will depend upon geographical/networking lag clustering of the validators of the mainnet.
@@ -68,7 +68,7 @@ By using Merkle proofs, this voting can be scaled to the entire population of th
 
 ## Actionability
 
-If the AI model guarantees the accuracy of the concept/vector embeddings, the governance process guarantees an actionable result.
+If the AI model guarantees the accuracy of the concept's vector embeddings, the governance process guarantees an actionable result.
 In addition: the chain may provide/manage vector embeddings related to the target audiences that need to have their AI prompt answers governed.
 
 *The degree of actionability of the information elicited by the deliberation process.*
@@ -96,6 +96,29 @@ graph TD
     J --> |No| 2
     J --> |Yes| K[K: The governance proposal is marked as executed]
 ```
+The proposed process has 3 phases (denoted 1-3 in the diagram).
+
+#### 1: Environment Setup
+
+Since the exact model of ChatGPT is not known to the public, we will use the well-known Transformer model to explain our solution. The solution gets inserted in the model where the `Here` box is:
+
+![Transformer](https://raw.githubusercontent.com/the-laurel/chain-proposals/main/laurel/assets/ConceptTransf.png)
+
+And the model becomes:
+
+![ConceptualGovernance](https://raw.githubusercontent.com/the-laurel/chain-proposals/main/laurel/assets/Conceptual%20Governance1.png)
+
+Depending upon the model characteristics of ChatGPT, we may find ways to simplify this solution, but in this proposal, we will explain this more general diagram.
+
+We expect the tokens of Conceptual Governance to be the sysnsets as defined by the [WordNet](https://wordnet.princeton.edu/) project together with eventual neologisms and identity tokens for public figures. They need to be extended by vector embeddings of dimensionality particular to the model to be governed.
+
+
+#### 2: The proposal drawing and voting
+
+#### 3: Verification and feedback on the implementation
+
+There is another model used for calculating the feedback reward and we will present it as soon as there is interest in our solutions. The feedback is automated and scaleable.
+
 *How easy it is to understand and trust the process.*
 
 ## And More
@@ -104,7 +127,7 @@ We propose that the vectors of review proposed by the description are not coveri
 
 - [Legal Authority](#Legal-Authority)
 - [Ability to Verify](#Ability-to-Verify)
-- [The Character and Features of Mythos]
+- [The Moral Character and Features of Solutions](#The-Character-and-Features-of-Mythos)
 
 ### Legal Authority
 
@@ -122,7 +145,7 @@ Mythos is a unique combination of moral structure and technical performance.
     - is a non-profit chain built by volunteers
     - its currency is not tradeable, it is rather a measure of provable effort
     - our team helped other chains launch and provided innovation and development services as volunteers
-    - we have fought the corruption of the blockchain space multiple times: as developers, as validators, and as governance proposers. One example: 
+    - we have fought the corruption of the blockchain space multiple times: as developers, validators, and as governance proposers. One example: 
 - unique technical features:
     - executes both EVM and CosmWasm via the WasmX engine
     - can serve https requests
@@ -131,7 +154,7 @@ Mythos is a unique combination of moral structure and technical performance.
     - can manage digital identities by a secure eID contract
     - its WasmX is very performant - it can be compiled (and executed) as a native binary (run by WasmEdge)
     - the ability to compute TensorFlow (light models) by contract
-    - Mythos stack is complete: chain node, web and mobile wallet, contracts and dApp IDE
+    - Mythos stack is complete: chain node, web and mobile wallet, contracts, and dApp IDE
 - projected features
     - extend WasmX engine to Python
     - the ability to compute large TensorFlow models via side-chains or rollups
@@ -145,15 +168,19 @@ A consensus mechanism that extends PoS, PoA, and other compatible mechanisms, by
 
 ### Proof of Effort
 
-The gas (computation coin) is mined by provable human effort. The actions that earn computation coin may be: validating the chain, moderating forums or language in voting options.
+The gas (computation coin) is mined by provable human effort. The actions that earn computation coin may be: validating the chain, moderating forums, or language in voting options.
 Also, people who appreciate your effort may award you computation coins from their earnings.
 
 ### Conviction Voting
 
-https://blog.giveth.io/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475
+A voting process that is not time-boxed. The concept described by [Jeff Emmett](https://blog.giveth.io/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) and independently re-discovered and implemented (with improvements) in The Laurel Project main contract.
 
 ## Concepts
 
 ### eID-issuing Authority
 
 The Mythos chain favors the Estonian Police and Border Guard Board as the best [authority for providing eIDs](https://eresident.politsei.ee/). They have global coverage (unfortunately excluding Russia and Belarusia).
+
+### Conceptual Governance
+
+An attention-based governance model that proposes pre-judgment of input encodings by a set of human-understandable concept tokens (expected to be the same as a synset from WordNet) vector embeddings, and weights.
