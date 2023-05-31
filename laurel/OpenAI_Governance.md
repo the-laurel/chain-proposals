@@ -4,6 +4,10 @@
 
 We are volunteers for The Laurel Project and Mythos chain. This application is not seeking grants from OpenAI for our efforts: we want to donate them as a volunteer effort. Rather, we may need resources such as computing or marketing that we cannot buy by ourselves to help OpenAI on top of effort alone.
 
+Out of respect for OpenAI, we will keep this application document short. Many other demos and details are available upon request.
+
+The context of this proposal is https://openai.com/blog/democratic-inputs-to-ai
+
 
 
 ## Self Evaluation
@@ -19,8 +23,9 @@ We are volunteers for The Laurel Project and Mythos chain. This application is n
 | [Scalability](#Scalability) | 5 | - by sidechains or rollups |
 | [Actionability](#Actionability) | x | - as actionable as the AI model can guarantee |
 | [Legibility](#Legibility) | 4 | - the process has a flow diagram |
+| [+ An Improved AI Model](#An-Improved-AI-Model) | 5 | - probably the other solutions do not offer this |
 | [+ Authoritative and Legal](#And-More) | 5 | - based on EU and International Law |
-| [+ Verification](#And-More) | 5 | - the same blockchain can be used to account for the training |
+| [+ Verification Abilities](#Ability-to-Verify) | 5 | - the same blockchain can be used to account for the training |
 | [+ Moral Character](#The-Character-and-Features-of-Mythos) | 5 | - an unique history of service |
 | [+ Performance and Features](#The-Character-and-Features-of-Mythos) | 5 | - an unique combination of features |
 
@@ -51,11 +56,16 @@ The representation can be quite flexible. By the governance plugin, the paramete
 
 ## Empowerment of Minority Opinions
 
+Minorities are groups that gained (an unfortunate) expertise in areas related to ostracisation, abuse, and unwarranted discrimination.
+As a measure of their depth of knowledge, they have their expert opinions, and expert options benefit from weighted voting.
 
 *Ensuring that unpopular or minority opinions are heard and providing smaller groups the opportunity to influence matters of significant concern to them.*
 
 
 ## Effective Moderation
+
+The process of Conviction Voting has already addressed most if not all these issues.
+Mythos has implemented an upgraded version of Conviction Voting that offers also weighted voting (by tokens obtained by personal effort).
 
 *Addressing challenges in moderation, including ensuring diverse representation of viewpoints, distinguishing valuable contributions from "off-topic" comments, and preventing moderator biases from influencing the process.*
 
@@ -68,8 +78,8 @@ By using Merkle proofs, this voting can be scaled to the entire population of th
 
 ## Actionability
 
-If the AI model guarantees the accuracy of the concept's vector embeddings, the governance process guarantees an actionable result.
-In addition: the chain may provide/manage vector embeddings related to the target audiences that need to have their AI prompt answers governed.
+If the AI model guarantees the accuracy of the concept's vector embeddings, the governance process guarantees an actionable result in the form of verification prompts and labels.
+In addition: the Mythos chain may provide/manage vector embeddings of the target audiences that need to have their AI prompt answers governed (its answers should be target-dependent).
 
 *The degree of actionability of the information elicited by the deliberation process.*
 
@@ -106,18 +116,22 @@ Since the exact model of ChatGPT is not known to the public, we will use the wel
 
 And the model becomes:
 
-![ConceptualGovernance](https://raw.githubusercontent.com/the-laurel/chain-proposals/main/laurel/assets/Conceptual%20Governance1.png)
+![ConceptualGovernance](https://raw.githubusercontent.com/the-laurel/chain-proposals/main/laurel/assets/ArtificialConscience.png)
 
 Depending upon the model characteristics of ChatGPT, we may find ways to simplify this solution, but in this proposal, we will explain this more general diagram.
 
-We expect the tokens of Conceptual Governance to be the sysnsets as defined by the [WordNet](https://wordnet.princeton.edu/) project together with eventual neologisms and identity tokens for public figures. They need to be extended by vector embeddings of dimensionality particular to the model to be governed.
+We expect the tokens of Artificial Conscience to be the sysnsets as defined by the [WordNet](https://wordnet.princeton.edu/) project together with eventual neologisms and identity tokens for public figures. They need to be extended by vector embeddings of dimensionality particular to the model to be governed.
 
 
 #### 2: The proposal drawing and voting
 
+The textual composition of the proposal will be using synset tokens (words with disambiguation markings) in order to ensure the same language between Neural Network Governance and Human-Led Governance for AI.
+
+Voting will be a weighted variant of Conviction Voting. Each outcome change will be ready to be incorporated into training automatically.
+
 #### 3: Verification and feedback on the implementation
 
-There is another model used for calculating the feedback reward and we will present it as soon as there is interest in our solutions. The feedback is automated and scaleable.
+There is another model used for calculating the feedback reward and we will present it as soon as there is interest in our solutions. The feedback is automated and scalable.
 
 *How easy it is to understand and trust the process.*
 
@@ -125,9 +139,16 @@ There is another model used for calculating the feedback reward and we will pres
 
 We propose that the vectors of review proposed by the description are not covering some important viewpoints:
 
+- [An Improved AI Model](https://hackmd.io/37TG0oY1Ss-kJmDWJjROpA#An-Improved-AI-Model)
 - [Legal Authority](#Legal-Authority)
 - [Ability to Verify](#Ability-to-Verify)
 - [The Moral Character and Features of Solutions](#The-Character-and-Features-of-Mythos)
+
+### An Improved AI Model
+
+As described in the Transformer diagram, we propose an improved AI model that introduces an additional module of attention.
+Additionally, we propose new tokens with specific vector embeddings that cannot be mimicked from the external input. We call this [Atrificial Conscience](#Artificial-Conscience).
+
 
 ### Legal Authority
 
@@ -135,7 +156,7 @@ Using eIDs as a requirement for voting makes voting carry the weight and authori
 
 ### Ability to Verify
 
-We consider this the most important factor. The solution proposed will automate feedback and verification. Feedback will be done by the mechanism of transactional futures. Verification will be done by using the blockchain itself in the process of training.
+We consider this as the most important factor. The solution proposed will automate feedback and verification. Feedback will be done by an extension of the neural network model coupled with the mechanism of transactional futures (on the Mythos chain). Verification will be done by using also the blockchain for accounting for the process of training.
 
 ### The Character and Features of Mythos
 
@@ -156,7 +177,7 @@ Mythos is a unique combination of moral structure and technical performance.
     - the ability to compute TensorFlow (light models) by contract
     - Mythos stack is complete: chain node, web and mobile wallet, contracts, and dApp IDE
 - projected features
-    - extend WasmX engine to Python
+    - extend the WasmX engine to Python
     - the ability to compute large TensorFlow models via side-chains or rollups
 
 
@@ -181,6 +202,8 @@ A voting process that is not time-boxed. The concept described by [Jeff Emmett](
 
 The Mythos chain favors the Estonian Police and Border Guard Board as the best [authority for providing eIDs](https://eresident.politsei.ee/). They have global coverage (unfortunately excluding Russia and Belarusia).
 
-### Conceptual Governance
+### Artificial Conscience
 
-An attention-based governance model that proposes pre-judgment of input encodings by a set of human-understandable concept tokens (expected to be the same as a synset from WordNet) vector embeddings, and weights.
+An attention-based governance AI model that proposes pre-judgment of input encodings by a set of human-understandable concept tokens (expected to be the same as a synset from WordNet) vector embeddings, and weights. 
+The vector embeddings of these tokens constitute a cluster that is very distinct from any input vectors. (Maybe by adding additional fields in the vector - increasing the dimensions.)
+Innovated by The Laurel Project. (It turns out that attention is not all you need.)
