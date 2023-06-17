@@ -76,8 +76,6 @@ Mythos governance is requiring all participants to have their eID validated on-c
 However: once the signatory power has been transferred from the eID to the Mythos address, even cancelation of the eID card by the Estonian authority may not stop the powers it has on-chain. That makes the system independent of Estonia.
 The chain has also a claim system that can be used to claim governance/voting fraud, by a different set of smart contracts.
 
-*Measures to prevent or address inappropriate behavior, such as trolling and fake accounts.*
-
 ## Inclusiveness and Representativeness
 
 Mythos governance contracts for AI depend only on the user having an eID recorded. They are open to anybody to try (on the testnet) or to use (on the mainnet). Video demos are provided on YouTube and easier-to-use interfaces can be implemented for friction-free access.
@@ -175,7 +173,10 @@ We expect the tokens of Artificial Conscience to be the sysnsets as defined by t
 
 The textual composition of the proposal will be using synset tokens (words with disambiguation markings) in order to ensure the same language between Neural Network Governance and Human-Led Governance for AI.
 
-Voting will be a weighted variant of Conviction Voting. Each outcome change will be ready to be incorporated into training automatically.
+Voting will be a weighted variant of N-Dimensional Conviction Voting. Each outcome change will be ready to be incorporated into training automatically.
+
+A Video demo of our current prototype (click on the image for the video):
+[![AI_Governance](https://raw.githubusercontent.com/the-laurel/chain-proposals/main/laurel/assets/ContinuousVoting.png)](https://youtu.be/yZ1dCdFzCwU)
 
 #### 3: Verification and feedback on the implementation
 
