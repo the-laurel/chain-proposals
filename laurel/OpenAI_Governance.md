@@ -2,7 +2,7 @@
 
 ## Preamble
 
-We are volunteers for The Laurel Project and Mythos chain. This application is not seeking grants from OpenAI for our efforts: we want to donate them as a volunteer effort. Rather, we may need resources such as computing or marketing that we cannot buy by ourselves to help OpenAI on top of effort alone.
+We are volunteers for The Laurel Project and the Mythos blockchain. This application is not seeking grants from OpenAI for our efforts: we want to donate them as a volunteer effort. Rather, we may need resources such as computing or marketing that we cannot buy by ourselves to help OpenAI on top of effort alone.
 
 Out of respect for OpenAI, we will keep this application document short. Many other demos and details are available upon request.
 
@@ -16,21 +16,59 @@ The context of this proposal is https://openai.com/blog/democratic-inputs-to-ai
 
 | Metric | x/5 | Explanation |
 | ---------------- | -------- | -------- |
+| [+ Grand Strategy](#Grand-Strategy) | 5 | - eternal relevance <br>- provable <br> - exposes the correct interfaces <br> - flexible, composable, upgradeable
 | [Robustness](#Robustness)       | 5    | - uses blockchain tech <br>- uses legal means  |
-| [Inclusiveness and Representativeness](#Inclusiveness-and-Representativeness) | 4    | - blockchain is already widespread<br> - Estonian eIDs are not available in Russia and Belarus    |
+| [Inclusiveness and Representativeness](#Inclusiveness-and-Representativeness) | 4    | - blockchain is already widespread<br> - Estonian eIDs are available globally <br> - multi-lingual governance   |
 | [Empowerment of Minority Opinions](#Empowerment-of-Minority-Opinions) | 4  | - domains of expertise will benefit from weighted voting |
 | [Effective Moderation](#Effective-Moderation) | 5 | - moderation enforced by black and grey listing|
 | [Scalability](#Scalability) | 5 | - by sidechains or rollups |
 | [Actionability](#Actionability) | x | - as actionable as the AI model can guarantee |
 | [Legibility](#Legibility) | 4 | - the process has a flow diagram |
 | [+ An Improved AI Model](#An-Improved-AI-Model) | 5 | - probably the other solutions do not offer this |
-| [+ Authoritative and Legal](#And-More) | 5 | - based on EU and International Law |
+| [+ Legitimacy and Legality](#And-More) | 5 | - based on EU and International Law |
 | [+ Verification Abilities](#Ability-to-Verify) | 5 | - the same blockchain can be used to account for the training |
 | [+ Moral Character](#The-Character-and-Features-of-Mythos) | 5 | - an unique history of service |
 | [+ Performance and Features](#The-Character-and-Features-of-Mythos) | 5 | - an unique combination of features |
 
 
-*We encourage participants to establish metrics for evaluating the quality of their methods, such as participant satisfaction, shifts in polarization, scalability, or other relevant indicators, and to invent new metrics for a healthy democratic process. *
+## Grand Strategy
+
+We have toiled from the beginnings of the Ethereum blockchain to define and refine the most advanced governance system. The strategy we followed is the following:
+- eternal relevance
+- provability of: process, full transparency, meta-provability
+- have the most intuitive and fit interface
+- obtain maximum flexibility and composability
+- do not compromise on maintainability and upgradeability
+
+### Eternal Relevance
+
+No governance proposals are time-boxed. They can change their voting outcome at any future date and remain relevant for as long as the blockchain and AI function.
+
+### Provability
+
+Aside from the provability by design (because all is based on blockchain tech), we attained and are improving composable provability.
+
+This means that we have developed a proving system that composes small proofs to encapsulate a more comprehensive proof or a meta-proof.
+
+With this system, we are able to prove: full transparency of the governance process, integrity, lawfulness, parsability, re-training process, and final outcome.
+
+### Interfaces
+
+For the humans: the Web UI interface is intuitive and we offer the following video demo of the last version. This is not a release version since it is unpolished, but it has the more important elements of one.
+The human interface will also offer tools to check and control the vocabulary, to make sure that ambiguities are not introduced in the important terms of governance by using WordNet synsets rather than just natural language words.
+
+For the AI, the interface is of types that the Transformer can immediately ingest: vector embeddings on 32-bit floats.
+
+For other applications, the voting outcome can be easily produced by the chain itself in YAML or JSON formats. One example of a complex object transformed into Yaml: [demoed in this video](https://youtu.be/Q53ylKzhJv0)
+
+### Flexibility and Composability
+
+The architecture of this smart contract is using the proxy pattern to hot-plug extensions that are programmed in other contracts.
+For example, it uses access control of an eID verifier contract and it can extend access control by accepting identity verification from Worldcoin or other blockchains.
+
+### Maintainability and Upgradeability
+
+By the smart contract proxy pattern: most functionality can be hot-swapped. But we also offer the ability to change the core contract without losing its historical state.
 
 ## Robustness
 
@@ -50,8 +88,11 @@ The representation can be quite flexible. By the governance plugin, the paramete
 - delegated voting - such as in Liquid Democracy
 - weighted voting - such as voting in domains that require expertise
 - and more...
-    
-*Strategies for including individuals from diverse backgrounds and levels of familiarity with AI systems in the democratic process.*
+
+The language of governance can also be changed because the same synsets exist in multiple languages. Therefore governance in English will be guaranteed to mean the same thing as one in French, German, etc.
+
+Each proposal has a link to the forum where it can be discussed. We guarantee responsible freedom of speech.
+
 
 
 ## Empowerment of Minority Opinions
@@ -59,21 +100,24 @@ The representation can be quite flexible. By the governance plugin, the paramete
 Minorities are groups that gained (an unfortunate) expertise in areas related to ostracisation, abuse, and unwarranted discrimination.
 As a measure of their depth of knowledge, they have their expert opinions, and expert options benefit from weighted voting.
 
-*Ensuring that unpopular or minority opinions are heard and providing smaller groups the opportunity to influence matters of significant concern to them.*
+Minorities have the ability to coagulate their own proposal options in the forums.
 
 
 ## Effective Moderation
 
 The process of Conviction Voting has already addressed most if not all these issues.
-Mythos has implemented an upgraded version of Conviction Voting that offers also weighted voting (by tokens obtained by personal effort).
+Mythos has implemented an upgraded version of Conviction Voting that is in N Dimensions and offers also weighted voting (by tokens obtained by personal effort).
 
-*Addressing challenges in moderation, including ensuring diverse representation of viewpoints, distinguishing valuable contributions from "off-topic" comments, and preventing moderator biases from influencing the process.*
+The default options included in the proposal creation cover situations like "off-topic" proposals or proposals that cannot be enforced. The scarcity of the computing "gas" (to solve the halting problem) and the fines incurred when voting for options that do not have public utility will teach the voters to vote (and comment) with prudence.
+
+The forums are open only to people who are responsible for their opinions. The login is by eID.
+
 
 ## Scalability
 
 By using Merkle proofs, this voting can be scaled to the entire population of the planet. However, if the production of 1 block per 2-4 seconds is not enough: side-chains can be spawned out of Mythos on-demand. These chains' validator set will depend upon geographical/networking lag clustering of the validators of the mainnet.
 
-*We emphasize scalable processes that can be conducted virtually, rather than through in-person engagement. We are aware that this approach might sacrifice some benefits associated with in-person discussions, and we recognize that certain aspects could be lost in a virtual setting.*
+We also have a novel solution for the scalability of blockchains in work. We cannot discuss it before we will demo it in action.
 
 
 ## Actionability
@@ -81,7 +125,6 @@ By using Merkle proofs, this voting can be scaled to the entire population of th
 If the AI model guarantees the accuracy of the concept's vector embeddings, the governance process guarantees an actionable result in the form of verification prompts and labels.
 In addition: the Mythos chain may provide/manage vector embeddings of the target audiences that need to have their AI prompt answers governed (its answers should be target-dependent).
 
-*The degree of actionability of the information elicited by the deliberation process.*
 
 
 ## Legibility
@@ -133,14 +176,13 @@ Voting will be a weighted variant of Conviction Voting. Each outcome change will
 
 There is another model used for calculating the feedback reward and we will present it as soon as there is interest in our solutions. The feedback is automated and scalable.
 
-*How easy it is to understand and trust the process.*
 
 ## And More
 
 We propose that the vectors of review proposed by the description are not covering some important viewpoints:
 
 - [An Improved AI Model](https://hackmd.io/37TG0oY1Ss-kJmDWJjROpA#An-Improved-AI-Model)
-- [Legal Authority](#Legal-Authority)
+- [Legitimacy](#Legitimacy--Legal-Authority)
 - [Ability to Verify](#Ability-to-Verify)
 - [The Moral Character and Features of Solutions](#The-Character-and-Features-of-Mythos)
 
@@ -150,7 +192,7 @@ As described in the Transformer diagram, we propose an improved AI model that in
 Additionally, we propose new tokens with specific vector embeddings that cannot be mimicked from the external input. We call this [Atrificial Conscience](#Artificial-Conscience).
 
 
-### Legal Authority
+### Legitimacy / Legal Authority
 
 Using eIDs as a requirement for voting makes voting carry the weight and authority of any legally binding document. That is by EU and International Law.
 
@@ -206,4 +248,4 @@ The Mythos chain favors the Estonian Police and Border Guard Board as the best [
 
 An attention-based governance AI model that proposes pre-judgment of input encodings by a set of human-understandable concept tokens (expected to be the same as a synset from WordNet) vector embeddings, and weights. 
 The vector embeddings of these tokens constitute a cluster that is very distinct from any input vectors. (Maybe by adding additional fields in the vector - increasing the dimensions.)
-Innovated by The Laurel Project. (It turns out that attention is not all you need.)
+Innovated by The Laurel Project. (It turns out that attention is not all you need. You also need internal dialogue.)
