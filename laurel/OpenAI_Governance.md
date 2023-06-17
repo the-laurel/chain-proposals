@@ -194,7 +194,7 @@ We propose that the vectors of review proposed by the description are not coveri
 ### An Improved AI Model
 
 As described in the Transformer diagram, we propose an improved AI model that introduces an additional module of attention.
-Additionally, we propose new tokens with specific vector embeddings that cannot be mimicked from the external input. We call this [Atrificial Conscience](#Artificial-Conscience).
+Additionally, we propose new tokens with specific vector embeddings that cannot be mimicked from the external input. We call this [Artificial Conscience](#Artificial-Conscience).
 
 
 ### Legitimacy / Legal Authority
@@ -213,7 +213,7 @@ Mythos is a unique combination of moral structure and technical performance.
     - is a non-profit chain built by volunteers
     - its currency is not tradeable, it is rather a measure of provable effort
     - our team helped other chains launch and provided innovation and development services as volunteers
-    - we have fought the corruption of the blockchain space multiple times: as developers, validators, and as governance proposers. One example: 
+    - we have fought the corruption of the blockchain space multiple times: as developers, validators, and as governance proposers. One example: [Governance Consensus: No Criminal Decisions](https://www.mintscan.io/evmos/proposals/99)
 - unique technical features:
     - executes both EVM and CosmWasm via the WasmX engine
     - can serve https requests
