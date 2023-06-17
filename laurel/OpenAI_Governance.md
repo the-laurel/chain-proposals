@@ -102,6 +102,11 @@ As a measure of their depth of knowledge, they have their expert opinions, and e
 
 Minorities have the ability to coagulate their own proposal options in the forums.
 
+Furthermore, our continuous voting system incentivizes making a decision/choice very early, with a minimum voting threshold. Minority groups can be the first movers and define and vote on proposals that they deem relevant. If these proposal decisions are found to be detrimental in time, the decision can be revoked by creating and voting on additional proposal options.
+
+Children are an audience with specific needs. They are a minority in the system since they do not yet have full rights. Children can vote directly or indirectly (by default delegation to their legal guardian) on matters concerning them. And instead of an eID for identification, they can be introduced into the system under their guardian's account.
+
+People who do not know English can also be considered a minority. Governance in multiple languages with unambiguous translations is facilitated by the use of synsets.
 
 ## Effective Moderation
 
