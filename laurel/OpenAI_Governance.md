@@ -241,7 +241,7 @@ Also, people who appreciate your effort may award you computation coins from the
 
 ### Conviction Voting
 
-A voting process that is not time-boxed. The concept described by [Jeff Emmett](https://blog.giveth.io/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) and independently re-discovered and implemented (with improvements) in The Laurel Project main contract.
+A voting process that is not time-boxed. The concept described by [Jeff Emmett](https://blog.giveth.io/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) and independently re-discovered and implemented (with improvements such as using N dimensions and weighted voting) in The Laurel Project main contract.
 
 ## Concepts
 
