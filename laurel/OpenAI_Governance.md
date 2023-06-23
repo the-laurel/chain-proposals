@@ -8,7 +8,9 @@ Out of respect for OpenAI, we will keep this application document short. Many ot
 
 The context of this proposal is https://openai.com/blog/democratic-inputs-to-ai
 
+## Video Presentation
 
+[Vox Populi Vox AI](https://youtu.be/3YMzO-qLULg)
 
 ## Self Evaluation
 
